@@ -47,9 +47,32 @@ These are some things I can explore.
 - Output modification. For example, discourage the model from defining functions or generating useless code even though such prediction is the most probable.
 - Generating test cases. I might want to generate input cases with the model so that I can ensure that the code does not break even if running on valid small input.
 - Code pruning. Probably we can use methods to identify unused variables and logic and prune them.
-- Re-generation of code on errors. If there is an error at a certain part of the code, probably I can rerun it.
+- Re-generation of code on errors. If there is an error at a certain part of the code, probably I can regenerate the solution from that point. This can be considered depth-first search. We might want to consider a version of Monte Carlo Tree Search as well, where we abandon an entire branch if there are too many failures.
 
 
 ## Installation and usage
 
 To be updated.
+
+
+## Resources
+
+AlphaCode
+- [Blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
+- [Preprint](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf)
+- [Video](https://www.youtube.com/watch?v=C5sWbYwzKyg)
+- [Result sample](https://alphacode.deepmind.com/) and commentary
+- [Codeforces submissions](https://codeforces.com/blog/entry/99566)
+- Live demo is not available
+
+OpenAI API
+- [Billing](https://openai.com/api/pricing/)
+- [Text editing and insertion](https://openai.com/blog/gpt-3-edit-insert/)
+- [Usage guide](https://beta.openai.com/docs/guides/completion/)
+
+Github Copilot
+- [Website](https://copilot.github.com/)
+- Not sure if this can translate and solve from statements.
+
+Related papers
+- Please help me find lol
