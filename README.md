@@ -69,10 +69,8 @@ OpenAI API
 - [Billing](https://openai.com/api/pricing/)
 - [Text editing and insertion](https://openai.com/blog/gpt-3-edit-insert/)
 - [Usage guide](https://beta.openai.com/docs/guides/completion/)
-
-Github Copilot
-- [Website](https://copilot.github.com/)
-- Not sure if this can translate and solve from statements.
+- [Codex models](https://beta.openai.com/docs/engines/codex-series-private-beta) is still in private beta
+- [Github Copilot](https://copilot.github.com/)
 
 Related papers
 - Please help me find lol

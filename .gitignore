@@ -137,5 +137,7 @@ config.py
 
 # cached request and response
 *.json
-!submissions/openai-api-request/2022-04-04T22:33:40Z.json
-!submissions/openai-api-response/2022-04-04T22:33:40Z.json
+!inference/openai-api-request/2022-04-04T22:33:40Z.json
+!inference/openai-api-response/2022-04-04T22:33:40Z.json
+!data/codeforces/huikang.json
+!data/codeforces/Kiri8128.json
