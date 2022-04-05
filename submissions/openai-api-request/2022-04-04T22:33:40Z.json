@@ -1,0 +1,8 @@
+{
+    "prompt": "Say this is a test",
+    "suffix": "",
+    "engine": "text-davinci-002",
+    "temperature": 0,
+    "max_tokens": 10,
+    "logprobs": 5
+}
