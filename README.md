@@ -60,10 +60,11 @@ To be updated.
 AlphaCode
 - [Blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 - [Preprint](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf)
-- [Video](https://www.youtube.com/watch?v=C5sWbYwzKyg)
+- [Video](https://www.youtube.com/watch?v=s9UAOmyah1A), and [with authors](https://www.youtube.com/watch?v=C5sWbYwzKyg)
 - [Result sample](https://alphacode.deepmind.com/) and commentary
 - [Codeforces submissions](https://codeforces.com/blog/entry/99566)
-- Live demo is not available
+- Live demo is not available (the model produces 10e6 programs at inference)
+- [CodeContest] Dataset that AlphaCode is fine-tuned on)
 
 OpenAI API
 - [Billing](https://openai.com/api/pricing/)
@@ -71,6 +72,13 @@ OpenAI API
 - [Usage guide](https://beta.openai.com/docs/guides/completion/)
 - [Codex models](https://beta.openai.com/docs/engines/codex-series-private-beta) is still in private beta
 - [Github Copilot](https://copilot.github.com/)
+
+CodeGen (Salesforce)
+- "outperforms OpenAI's Codex"
+- [Paper](https://arxiv.org/abs/2203.13474)
+- [Github](https://github.com/salesforce/CodeGen)
+- [Colab](https://colab.research.google.com/drive/1fQI8OgzMAR0bquCrvhlAtXSw6iMFbVgI)
+
 
 Related papers
 - Please help me find lol
