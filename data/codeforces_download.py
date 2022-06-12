@@ -17,6 +17,8 @@ def download_codeforces_user_submissions_id(user_handle):
     with open('codeforces/{}.json'.format(user_handle), "w") as f:
         json.dump(data, f, indent=4)
 
+    return data
+
 
 def download_codeforces_code_given_submission_id(contest_id, submission_id):
     # print(download_codeforces_code_given_submission_id(1656, 151467849))
