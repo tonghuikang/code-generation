@@ -1,0 +1,793 @@
+contest,href,index,problem_name,score
+weekly-100,/contest/weekly-contest-100/problems/monotonic-array,0,Monotonic Array,2
+weekly-100,/contest/weekly-contest-100/problems/increasing-order-search-tree,1,Increasing Order Search Tree,3
+weekly-100,/contest/weekly-contest-100/problems/bitwise-ors-of-subarrays,2,Bitwise ORs of Subarrays,6
+weekly-100,/contest/weekly-contest-100/problems/orderly-queue,3,Orderly Queue,7
+weekly-101,/contest/weekly-contest-101/problems/rle-iterator,0,RLE Iterator,4
+weekly-101,/contest/weekly-contest-101/problems/online-stock-span,1,Online Stock Span,4
+weekly-101,/contest/weekly-contest-101/problems/numbers-at-most-n-given-digit-set,2,Numbers At Most N Given Digit Set,7
+weekly-101,/contest/weekly-contest-101/problems/valid-permutations-for-di-sequence,3,Valid Permutations for DI Sequence,9
+weekly-102,/contest/weekly-contest-102/problems/sort-array-by-parity,0,Sort Array By Parity,2
+weekly-102,/contest/weekly-contest-102/problems/fruit-into-baskets,1,Fruit Into Baskets,5
+weekly-102,/contest/weekly-contest-102/problems/sum-of-subarray-minimums,2,Sum of Subarray Minimums,6
+weekly-102,/contest/weekly-contest-102/problems/super-palindromes,3,Super Palindromes,7
+weekly-103,/contest/weekly-contest-103/problems/smallest-range-i,0,Smallest Range I,3
+weekly-103,/contest/weekly-contest-103/problems/snakes-and-ladders,1,Snakes and Ladders,6
+weekly-103,/contest/weekly-contest-103/problems/smallest-range-ii,2,Smallest Range II,6
+weekly-103,/contest/weekly-contest-103/problems/online-election,3,Online Election,6
+weekly-104,/contest/weekly-contest-104/problems/x-of-a-kind-in-a-deck-of-cards,0,X of a Kind in a Deck of Cards,3
+weekly-104,/contest/weekly-contest-104/problems/partition-array-into-disjoint-intervals,1,Partition Array into Disjoint Intervals,5
+weekly-104,/contest/weekly-contest-104/problems/word-subsets,2,Word Subsets,6
+weekly-104,/contest/weekly-contest-104/problems/cat-and-mouse,3,Cat and Mouse,8
+weekly-105,/contest/weekly-contest-105/problems/reverse-only-letters,0,Reverse Only Letters,4
+weekly-105,/contest/weekly-contest-105/problems/maximum-sum-circular-subarray,1,Maximum Sum Circular Subarray,6
+weekly-105,/contest/weekly-contest-105/problems/complete-binary-tree-inserter,2,Complete Binary Tree Inserter,7
+weekly-105,/contest/weekly-contest-105/problems/number-of-music-playlists,3,Number of Music Playlists,8
+weekly-106,/contest/weekly-contest-106/problems/sort-array-by-parity-ii,0,Sort Array By Parity II,3
+weekly-106,/contest/weekly-contest-106/problems/minimum-add-to-make-parentheses-valid,1,Minimum Add to Make Parentheses Valid,4
+weekly-106,/contest/weekly-contest-106/problems/3sum-with-multiplicity,2,3Sum With Multiplicity,6
+weekly-106,/contest/weekly-contest-106/problems/minimize-malware-spread,3,Minimize Malware Spread,7
+weekly-107,/contest/weekly-contest-107/problems/long-pressed-name,0,Long Pressed Name,4
+weekly-107,/contest/weekly-contest-107/problems/flip-string-to-monotone-increasing,1,Flip String to Monotone Increasing,5
+weekly-107,/contest/weekly-contest-107/problems/three-equal-parts,2,Three Equal Parts,8
+weekly-107,/contest/weekly-contest-107/problems/minimize-malware-spread-ii,3,Minimize Malware Spread II,8
+weekly-108,/contest/weekly-contest-108/problems/unique-email-addresses,0,Unique Email Addresses,4
+weekly-108,/contest/weekly-contest-108/problems/binary-subarrays-with-sum,1,Binary Subarrays With Sum,5
+weekly-108,/contest/weekly-contest-108/problems/minimum-falling-path-sum,2,Minimum Falling Path Sum,5
+weekly-108,/contest/weekly-contest-108/problems/beautiful-array,3,Beautiful Array,6
+weekly-109,/contest/weekly-contest-109/problems/number-of-recent-calls,0,Number of Recent Calls,4
+weekly-109,/contest/weekly-contest-109/problems/knight-dialer,1,Knight Dialer,5
+weekly-109,/contest/weekly-contest-109/problems/shortest-bridge,2,Shortest Bridge,6
+weekly-109,/contest/weekly-contest-109/problems/stamping-the-sequence,3,Stamping The Sequence,8
+weekly-110,/contest/weekly-contest-110/problems/reorder-data-in-log-files,0,Reorder Data in Log Files,4
+weekly-110,/contest/weekly-contest-110/problems/range-sum-of-bst,1,Range Sum of BST,4
+weekly-110,/contest/weekly-contest-110/problems/minimum-area-rectangle,2,Minimum Area Rectangle,5
+weekly-110,/contest/weekly-contest-110/problems/distinct-subsequences-ii,3,Distinct Subsequences II,7
+weekly-111,/contest/weekly-contest-111/problems/valid-mountain-array,0,Valid Mountain Array,3
+weekly-111,/contest/weekly-contest-111/problems/delete-columns-to-make-sorted,1,Delete Columns to Make Sorted,4
+weekly-111,/contest/weekly-contest-111/problems/di-string-match,2,DI String Match,5
+weekly-111,/contest/weekly-contest-111/problems/find-the-shortest-superstring,3,Find the Shortest Superstring,8
+weekly-112,/contest/weekly-contest-112/problems/minimum-increment-to-make-array-unique,0,Minimum Increment to Make Array Unique,5
+weekly-112,/contest/weekly-contest-112/problems/validate-stack-sequences,1,Validate Stack Sequences,6
+weekly-112,/contest/weekly-contest-112/problems/most-stones-removed-with-same-row-or-column,2,Most Stones Removed with Same Row or Column,6
+weekly-112,/contest/weekly-contest-112/problems/bag-of-tokens,3,Bag of Tokens,6
+weekly-113,/contest/weekly-contest-113/problems/largest-time-for-given-digits,0,Largest Time for Given Digits,4
+weekly-113,/contest/weekly-contest-113/problems/flip-equivalent-binary-trees,1,Flip Equivalent Binary Trees,5
+weekly-113,/contest/weekly-contest-113/problems/reveal-cards-in-increasing-order,2,Reveal Cards In Increasing Order,5
+weekly-113,/contest/weekly-contest-113/problems/largest-component-size-by-common-factor,3,Largest Component Size by Common Factor,8
+weekly-114,/contest/weekly-contest-114/problems/verifying-an-alien-dictionary,0,Verifying an Alien Dictionary,4
+weekly-114,/contest/weekly-contest-114/problems/array-of-doubled-pairs,1,Array of Doubled Pairs,5
+weekly-114,/contest/weekly-contest-114/problems/delete-columns-to-make-sorted-ii,2,Delete Columns to Make Sorted II,6
+weekly-114,/contest/weekly-contest-114/problems/tallest-billboard,3,Tallest Billboard,8
+weekly-115,/contest/weekly-contest-115/problems/check-completeness-of-a-binary-tree,0,Check Completeness of a Binary Tree,5
+weekly-115,/contest/weekly-contest-115/problems/prison-cells-after-n-days,1,Prison Cells After N Days,6
+weekly-115,/contest/weekly-contest-115/problems/regions-cut-by-slashes,2,Regions Cut By Slashes,7
+weekly-115,/contest/weekly-contest-115/problems/delete-columns-to-make-sorted-iii,3,Delete Columns to Make Sorted III,7
+weekly-116,/contest/weekly-contest-116/problems/n-repeated-element-in-size-2n-array,0,N-Repeated Element in Size 2N Array,2
+weekly-116,/contest/weekly-contest-116/problems/maximum-width-ramp,1,Maximum Width Ramp,5
+weekly-116,/contest/weekly-contest-116/problems/minimum-area-rectangle-ii,2,Minimum Area Rectangle II,5
+weekly-116,/contest/weekly-contest-116/problems/least-operators-to-express-number,3,Least Operators to Express Number,9
+weekly-117,/contest/weekly-contest-117/problems/univalued-binary-tree,0,Univalued Binary Tree,3
+weekly-117,/contest/weekly-contest-117/problems/numbers-with-same-consecutive-differences,1,Numbers With Same Consecutive Differences,5
+weekly-117,/contest/weekly-contest-117/problems/vowel-spellchecker,2,Vowel Spellchecker,6
+weekly-117,/contest/weekly-contest-117/problems/binary-tree-cameras,3,Binary Tree Cameras,8
+weekly-118,/contest/weekly-contest-118/problems/powerful-integers,0,Powerful Integers,3
+weekly-118,/contest/weekly-contest-118/problems/pancake-sorting,1,Pancake Sorting,5
+weekly-118,/contest/weekly-contest-118/problems/flip-binary-tree-to-match-preorder-traversal,2,Flip Binary Tree To Match Preorder Traversal,6
+weekly-118,/contest/weekly-contest-118/problems/equal-rational-numbers,3,Equal Rational Numbers,8
+weekly-119,/contest/weekly-contest-119/problems/k-closest-points-to-origin,0,K Closest Points to Origin,3
+weekly-119,/contest/weekly-contest-119/problems/largest-perimeter-triangle,1,Largest Perimeter Triangle,4
+weekly-119,/contest/weekly-contest-119/problems/subarray-sums-divisible-by-k,2,Subarray Sums Divisible by K,6
+weekly-119,/contest/weekly-contest-119/problems/odd-even-jump,3,Odd Even Jump,8
+weekly-120,/contest/weekly-contest-120/problems/squares-of-a-sorted-array,0,Squares of a Sorted Array,2
+weekly-120,/contest/weekly-contest-120/problems/longest-turbulent-subarray,1,Longest Turbulent Subarray,5
+weekly-120,/contest/weekly-contest-120/problems/distribute-coins-in-binary-tree,2,Distribute Coins in Binary Tree,6
+weekly-120,/contest/weekly-contest-120/problems/unique-paths-iii,3,Unique Paths III,7
+weekly-121,/contest/weekly-contest-121/problems/string-without-aaa-or-bbb,0,String Without AAA or BBB,4
+weekly-121,/contest/weekly-contest-121/problems/time-based-key-value-store,1,Time Based Key-Value Store,5
+weekly-121,/contest/weekly-contest-121/problems/minimum-cost-for-tickets,2,Minimum Cost For Tickets,5
+weekly-121,/contest/weekly-contest-121/problems/triples-with-bitwise-and-equal-to-zero,3,Triples with Bitwise AND Equal To Zero,7
+weekly-122,/contest/weekly-contest-122/problems/sum-of-even-numbers-after-queries,0,Sum of Even Numbers After Queries,4
+weekly-122,/contest/weekly-contest-122/problems/smallest-string-starting-from-leaf,1,Smallest String Starting From Leaf,5
+weekly-122,/contest/weekly-contest-122/problems/interval-list-intersections,2,Interval List Intersections,5
+weekly-122,/contest/weekly-contest-122/problems/vertical-order-traversal-of-a-binary-tree,3,Vertical Order Traversal of a Binary Tree,5
+weekly-123,/contest/weekly-contest-123/problems/add-to-array-form-of-integer,0,Add to Array-Form of Integer,4
+weekly-123,/contest/weekly-contest-123/problems/satisfiability-of-equality-equations,1,Satisfiability of Equality Equations,6
+weekly-123,/contest/weekly-contest-123/problems/broken-calculator,2,Broken Calculator,6
+weekly-123,/contest/weekly-contest-123/problems/subarrays-with-k-different-integers,3,Subarrays with K Different Integers,8
+weekly-124,/contest/weekly-contest-124/problems/cousins-in-binary-tree,0,Cousins in Binary Tree,4
+weekly-124,/contest/weekly-contest-124/problems/rotting-oranges,1,Rotting Oranges,5
+weekly-124,/contest/weekly-contest-124/problems/minimum-number-of-k-consecutive-bit-flips,2,Minimum Number of K Consecutive Bit Flips,6
+weekly-124,/contest/weekly-contest-124/problems/number-of-squareful-arrays,3,Number of Squareful Arrays,6
+weekly-125,/contest/weekly-contest-125/problems/find-the-town-judge,0,Find the Town Judge,4
+weekly-125,/contest/weekly-contest-125/problems/available-captures-for-rook,1,Available Captures for Rook,4
+weekly-125,/contest/weekly-contest-125/problems/maximum-binary-tree-ii,2,Maximum Binary Tree II,6
+weekly-125,/contest/weekly-contest-125/problems/grid-illumination,3,Grid Illumination,8
+weekly-126,/contest/weekly-contest-126/problems/find-common-characters,0,Find Common Characters,3
+weekly-126,/contest/weekly-contest-126/problems/check-if-word-is-valid-after-substitutions,1,Check If Word Is Valid After Substitutions,5
+weekly-126,/contest/weekly-contest-126/problems/max-consecutive-ones-iii,2,Max Consecutive Ones III,6
+weekly-126,/contest/weekly-contest-126/problems/minimum-cost-to-merge-stones,3,Minimum Cost to Merge Stones,9
+weekly-127,/contest/weekly-contest-127/problems/maximize-sum-of-array-after-k-negations,0,Maximize Sum Of Array After K Negations,4
+weekly-127,/contest/weekly-contest-127/problems/clumsy-factorial,1,Clumsy Factorial,4
+weekly-127,/contest/weekly-contest-127/problems/minimum-domino-rotations-for-equal-row,2,Minimum Domino Rotations For Equal Row,5
+weekly-127,/contest/weekly-contest-127/problems/construct-binary-search-tree-from-preorder-traversal,3,Construct Binary Search Tree from Preorder Traversal,6
+weekly-128,/contest/weekly-contest-128/problems/complement-of-base-10-integer,0,Complement of Base 10 Integer,2
+weekly-128,/contest/weekly-contest-128/problems/pairs-of-songs-with-total-durations-divisible-by-60,1,Pairs of Songs With Total Durations Divisible by 60,4
+weekly-128,/contest/weekly-contest-128/problems/capacity-to-ship-packages-within-d-days,2,Capacity To Ship Packages Within D Days,6
+weekly-128,/contest/weekly-contest-128/problems/numbers-with-repeated-digits,3,Numbers With Repeated Digits,8
+weekly-129,/contest/weekly-contest-129/problems/partition-array-into-three-parts-with-equal-sum,0,Partition Array Into Three Parts With Equal Sum,4
+weekly-129,/contest/weekly-contest-129/problems/smallest-integer-divisible-by-k,1,Smallest Integer Divisible by K,4
+weekly-129,/contest/weekly-contest-129/problems/best-sightseeing-pair,2,Best Sightseeing Pair,5
+weekly-129,/contest/weekly-contest-129/problems/binary-string-with-substrings-representing-1-to-n,3,Binary String With Substrings Representing 1 To N,5
+weekly-130,/contest/weekly-contest-130/problems/binary-prefix-divisible-by-5,0,Binary Prefix Divisible By 5,4
+weekly-130,/contest/weekly-contest-130/problems/convert-to-base-2,1,Convert to Base -2,5
+weekly-130,/contest/weekly-contest-130/problems/next-greater-node-in-linked-list,2,Next Greater Node In Linked List,5
+weekly-130,/contest/weekly-contest-130/problems/number-of-enclaves,3,Number of Enclaves,5
+weekly-131,/contest/weekly-contest-131/problems/remove-outermost-parentheses,0,Remove Outermost Parentheses,5
+weekly-131,/contest/weekly-contest-131/problems/sum-of-root-to-leaf-binary-numbers,1,Sum of Root To Leaf Binary Numbers,5
+weekly-131,/contest/weekly-contest-131/problems/camelcase-matching,2,Camelcase Matching,6
+weekly-131,/contest/weekly-contest-131/problems/video-stitching,3,Video Stitching,6
+weekly-132,/contest/weekly-contest-132/problems/divisor-game,0,Divisor Game,4
+weekly-132,/contest/weekly-contest-132/problems/maximum-difference-between-node-and-ancestor,1,Maximum Difference Between Node and Ancestor,6
+weekly-132,/contest/weekly-contest-132/problems/longest-arithmetic-subsequence,2,Longest Arithmetic Subsequence,6
+weekly-132,/contest/weekly-contest-132/problems/recover-a-tree-from-preorder-traversal,3,Recover a Tree From Preorder Traversal,8
+weekly-133,/contest/weekly-contest-133/problems/matrix-cells-in-distance-order,0,Matrix Cells in Distance Order,4
+weekly-133,/contest/weekly-contest-133/problems/two-city-scheduling,1,Two City Scheduling,4
+weekly-133,/contest/weekly-contest-133/problems/maximum-sum-of-two-non-overlapping-subarrays,2,Maximum Sum of Two Non-Overlapping Subarrays,6
+weekly-133,/contest/weekly-contest-133/problems/stream-of-characters,3,Stream of Characters,7
+weekly-134,/contest/weekly-contest-134/problems/moving-stones-until-consecutive,0,Moving Stones Until Consecutive,4
+weekly-134,/contest/weekly-contest-134/problems/coloring-a-border,1,Coloring A Border,5
+weekly-134,/contest/weekly-contest-134/problems/uncrossed-lines,2,Uncrossed Lines,5
+weekly-134,/contest/weekly-contest-134/problems/escape-a-large-maze,3,Escape a Large Maze,8
+weekly-135,/contest/weekly-contest-135/problems/valid-boomerang,0,Valid Boomerang,3
+weekly-135,/contest/weekly-contest-135/problems/binary-search-tree-to-greater-sum-tree,1,Binary Search Tree to Greater Sum Tree,5
+weekly-135,/contest/weekly-contest-135/problems/minimum-score-triangulation-of-polygon,2,Minimum Score Triangulation of Polygon,6
+weekly-135,/contest/weekly-contest-135/problems/moving-stones-until-consecutive-ii,3,Moving Stones Until Consecutive II,7
+weekly-136,/contest/weekly-contest-136/problems/robot-bounded-in-circle,0,Robot Bounded In Circle,4
+weekly-136,/contest/weekly-contest-136/problems/flower-planting-with-no-adjacent,1,Flower Planting With No Adjacent,5
+weekly-136,/contest/weekly-contest-136/problems/partition-array-for-maximum-sum,2,Partition Array for Maximum Sum,6
+weekly-136,/contest/weekly-contest-136/problems/longest-duplicate-substring,3,Longest Duplicate Substring,8
+weekly-137,/contest/weekly-contest-137/problems/last-stone-weight,0,Last Stone Weight,3
+weekly-137,/contest/weekly-contest-137/problems/remove-all-adjacent-duplicates-in-string,1,Remove All Adjacent Duplicates In String,4
+weekly-137,/contest/weekly-contest-137/problems/longest-string-chain,2,Longest String Chain,6
+weekly-137,/contest/weekly-contest-137/problems/last-stone-weight-ii,3,Last Stone Weight II,6
+weekly-138,/contest/weekly-contest-138/problems/height-checker,0,Height Checker,2
+weekly-138,/contest/weekly-contest-138/problems/grumpy-bookstore-owner,1,Grumpy Bookstore Owner,6
+weekly-138,/contest/weekly-contest-138/problems/previous-permutation-with-one-swap,2,Previous Permutation With One Swap,6
+weekly-138,/contest/weekly-contest-138/problems/distant-barcodes,3,Distant Barcodes,6
+weekly-139,/contest/weekly-contest-139/problems/greatest-common-divisor-of-strings,0,Greatest Common Divisor of Strings,4
+weekly-139,/contest/weekly-contest-139/problems/flip-columns-for-maximum-number-of-equal-rows,1,Flip Columns For Maximum Number of Equal Rows,6
+weekly-139,/contest/weekly-contest-139/problems/adding-two-negabinary-numbers,2,Adding Two Negabinary Numbers,6
+weekly-139,/contest/weekly-contest-139/problems/number-of-submatrices-that-sum-to-target,3,Number of Submatrices That Sum to Target,8
+weekly-140,/contest/weekly-contest-140/problems/occurrences-after-bigram,0,Occurrences After Bigram,4
+weekly-140,/contest/weekly-contest-140/problems/letter-tile-possibilities,1,Letter Tile Possibilities,6
+weekly-140,/contest/weekly-contest-140/problems/insufficient-nodes-in-root-to-leaf-paths,2,Insufficient Nodes in Root to Leaf Paths,6
+weekly-140,/contest/weekly-contest-140/problems/smallest-subsequence-of-distinct-characters,3,Smallest Subsequence of Distinct Characters,6
+weekly-141,/contest/weekly-contest-141/problems/duplicate-zeros,0,Duplicate Zeros,4
+weekly-141,/contest/weekly-contest-141/problems/largest-values-from-labels,1,Largest Values From Labels,5
+weekly-141,/contest/weekly-contest-141/problems/shortest-path-in-binary-matrix,2,Shortest Path in Binary Matrix,5
+weekly-141,/contest/weekly-contest-141/problems/shortest-common-supersequence,3,Shortest Common Supersequence ,8
+weekly-142,/contest/weekly-contest-142/problems/statistics-from-a-large-sample,0,Statistics from a Large Sample,5
+weekly-142,/contest/weekly-contest-142/problems/car-pooling,1,Car Pooling,5
+weekly-142,/contest/weekly-contest-142/problems/find-in-mountain-array,2,Find in Mountain Array,8
+weekly-142,/contest/weekly-contest-142/problems/brace-expansion-ii,3,Brace Expansion II,8
+weekly-143,/contest/weekly-contest-143/problems/distribute-candies-to-people,0,Distribute Candies to People,4
+weekly-143,/contest/weekly-contest-143/problems/path-in-zigzag-labelled-binary-tree,1,Path In Zigzag Labelled Binary Tree,4
+weekly-143,/contest/weekly-contest-143/problems/filling-bookcase-shelves,2,Filling Bookcase Shelves,6
+weekly-143,/contest/weekly-contest-143/problems/parsing-a-boolean-expression,3,Parsing A Boolean Expression,6
+weekly-144,/contest/weekly-contest-144/problems/defanging-an-ip-address,0,Defanging an IP Address,1
+weekly-144,/contest/weekly-contest-144/problems/corporate-flight-bookings,1,Corporate Flight Bookings,4
+weekly-144,/contest/weekly-contest-144/problems/delete-nodes-and-return-forest,2,Delete Nodes And Return Forest,6
+weekly-144,/contest/weekly-contest-144/problems/maximum-nesting-depth-of-two-valid-parentheses-strings,3,Maximum Nesting Depth of Two Valid Parentheses Strings,6
+weekly-145,/contest/weekly-contest-145/problems/relative-sort-array,0,Relative Sort Array,3
+weekly-145,/contest/weekly-contest-145/problems/lowest-common-ancestor-of-deepest-leaves,1,Lowest Common Ancestor of Deepest Leaves,6
+weekly-145,/contest/weekly-contest-145/problems/longest-well-performing-interval,2,Longest Well-Performing Interval,7
+weekly-145,/contest/weekly-contest-145/problems/smallest-sufficient-team,3,Smallest Sufficient Team,7
+weekly-146,/contest/weekly-contest-146/problems/number-of-equivalent-domino-pairs,0,Number of Equivalent Domino Pairs,3
+weekly-146,/contest/weekly-contest-146/problems/shortest-path-with-alternating-colors,1,Shortest Path with Alternating Colors,5
+weekly-146,/contest/weekly-contest-146/problems/minimum-cost-tree-from-leaf-values,2,Minimum Cost Tree From Leaf Values,6
+weekly-146,/contest/weekly-contest-146/problems/maximum-of-absolute-value-expression,3,Maximum of Absolute Value Expression,7
+weekly-147,/contest/weekly-contest-147/problems/n-th-tribonacci-number,0,N-th Tribonacci Number,2
+weekly-147,/contest/weekly-contest-147/problems/alphabet-board-path,1,Alphabet Board Path,5
+weekly-147,/contest/weekly-contest-147/problems/largest-1-bordered-square,2,Largest 1-Bordered Square,7
+weekly-147,/contest/weekly-contest-147/problems/stone-game-ii,3,Stone Game II,7
+weekly-148,/contest/weekly-contest-148/problems/decrease-elements-to-make-array-zigzag,0,Decrease Elements To Make Array Zigzag,4
+weekly-148,/contest/weekly-contest-148/problems/binary-tree-coloring-game,1,Binary Tree Coloring Game,5
+weekly-148,/contest/weekly-contest-148/problems/snapshot-array,2,Snapshot Array,6
+weekly-148,/contest/weekly-contest-148/problems/longest-chunked-palindrome-decomposition,3,Longest Chunked Palindrome Decomposition,8
+weekly-149,/contest/weekly-contest-149/problems/day-of-the-year,0,Day of the Year,4
+weekly-149,/contest/weekly-contest-149/problems/number-of-dice-rolls-with-target-sum,1,Number of Dice Rolls With Target Sum,5
+weekly-149,/contest/weekly-contest-149/problems/swap-for-longest-repeated-character-substring,2,Swap For Longest Repeated Character Substring,6
+weekly-149,/contest/weekly-contest-149/problems/online-majority-element-in-subarray,3,Online Majority Element In Subarray,9
+weekly-150,/contest/weekly-contest-150/problems/find-words-that-can-be-formed-by-characters,0,Find Words That Can Be Formed by Characters,3
+weekly-150,/contest/weekly-contest-150/problems/maximum-level-sum-of-a-binary-tree,1,Maximum Level Sum of a Binary Tree,4
+weekly-150,/contest/weekly-contest-150/problems/as-far-from-land-as-possible,2,As Far from Land as Possible,5
+weekly-150,/contest/weekly-contest-150/problems/last-substring-in-lexicographical-order,3,Last Substring in Lexicographical Order,7
+weekly-151,/contest/weekly-contest-151/problems/invalid-transactions,0,Invalid Transactions,4
+weekly-151,/contest/weekly-contest-151/problems/compare-strings-by-frequency-of-the-smallest-character,1,Compare Strings by Frequency of the Smallest Character,4
+weekly-151,/contest/weekly-contest-151/problems/remove-zero-sum-consecutive-nodes-from-linked-list,2,Remove Zero Sum Consecutive Nodes from Linked List,5
+weekly-151,/contest/weekly-contest-151/problems/dinner-plate-stacks,3,Dinner Plate Stacks,6
+weekly-152,/contest/weekly-contest-152/problems/prime-arrangements,0,Prime Arrangements,3
+weekly-152,/contest/weekly-contest-152/problems/diet-plan-performance,1,Diet Plan Performance,4
+weekly-152,/contest/weekly-contest-152/problems/can-make-palindrome-from-substring,2,Can Make Palindrome from Substring,5
+weekly-152,/contest/weekly-contest-152/problems/number-of-valid-words-for-each-puzzle,3,Number of Valid Words for Each Puzzle,6
+weekly-153,/contest/weekly-contest-153/problems/distance-between-bus-stops,0,Distance Between Bus Stops,3
+weekly-153,/contest/weekly-contest-153/problems/day-of-the-week,1,Day of the Week,4
+weekly-153,/contest/weekly-contest-153/problems/maximum-subarray-sum-with-one-deletion,2,Maximum Subarray Sum with One Deletion,5
+weekly-153,/contest/weekly-contest-153/problems/make-array-strictly-increasing,3,Make Array Strictly Increasing,7
+weekly-154,/contest/weekly-contest-154/problems/maximum-number-of-balloons,0,Maximum Number of Balloons,3
+weekly-154,/contest/weekly-contest-154/problems/reverse-substrings-between-each-pair-of-parentheses,1,Reverse Substrings Between Each Pair of Parentheses,4
+weekly-154,/contest/weekly-contest-154/problems/k-concatenation-maximum-sum,2,K-Concatenation Maximum Sum,5
+weekly-154,/contest/weekly-contest-154/problems/critical-connections-in-a-network,3,Critical Connections in a Network,7
+weekly-155,/contest/weekly-contest-155/problems/minimum-absolute-difference,0,Minimum Absolute Difference,3
+weekly-155,/contest/weekly-contest-155/problems/ugly-number-iii,1,Ugly Number III,4
+weekly-155,/contest/weekly-contest-155/problems/smallest-string-with-swaps,2,Smallest String With Swaps,5
+weekly-155,/contest/weekly-contest-155/problems/sort-items-by-groups-respecting-dependencies,3,Sort Items by Groups Respecting Dependencies,8
+weekly-156,/contest/weekly-contest-156/problems/unique-number-of-occurrences,0,Unique Number of Occurrences,3
+weekly-156,/contest/weekly-contest-156/problems/get-equal-substrings-within-budget,1,Get Equal Substrings Within Budget,4
+weekly-156,/contest/weekly-contest-156/problems/remove-all-adjacent-duplicates-in-string-ii,2,Remove All Adjacent Duplicates in String II,5
+weekly-156,/contest/weekly-contest-156/problems/minimum-moves-to-reach-target-with-rotations,3,Minimum Moves to Reach Target with Rotations,7
+weekly-157,/contest/weekly-contest-157/problems/minimum-cost-to-move-chips-to-the-same-position,0,Minimum Cost to Move Chips to The Same Position,3
+weekly-157,/contest/weekly-contest-157/problems/longest-arithmetic-subsequence-of-given-difference,1,Longest Arithmetic Subsequence of Given Difference,4
+weekly-157,/contest/weekly-contest-157/problems/path-with-maximum-gold,2,Path with Maximum Gold,5
+weekly-157,/contest/weekly-contest-157/problems/count-vowels-permutation,3,Count Vowels Permutation,6
+weekly-158,/contest/weekly-contest-158/problems/split-a-string-in-balanced-strings,0,Split a String in Balanced Strings,3
+weekly-158,/contest/weekly-contest-158/problems/queens-that-can-attack-the-king,1,Queens That Can Attack the King,4
+weekly-158,/contest/weekly-contest-158/problems/dice-roll-simulation,2,Dice Roll Simulation,5
+weekly-158,/contest/weekly-contest-158/problems/maximum-equal-frequency,3,Maximum Equal Frequency,7
+weekly-159,/contest/weekly-contest-159/problems/check-if-it-is-a-straight-line,0,Check If It Is a Straight Line,3
+weekly-159,/contest/weekly-contest-159/problems/remove-sub-folders-from-the-filesystem,1,Remove Sub-Folders from the Filesystem,4
+weekly-159,/contest/weekly-contest-159/problems/replace-the-substring-for-balanced-string,2,Replace the Substring for Balanced String,5
+weekly-159,/contest/weekly-contest-159/problems/maximum-profit-in-job-scheduling,3,Maximum Profit in Job Scheduling,6
+weekly-160,/contest/weekly-contest-160/problems/find-positive-integer-solution-for-a-given-equation,0,Find Positive Integer Solution for a Given Equation,3
+weekly-160,/contest/weekly-contest-160/problems/circular-permutation-in-binary-representation,1,Circular Permutation in Binary Representation,5
+weekly-160,/contest/weekly-contest-160/problems/maximum-length-of-a-concatenated-string-with-unique-characters,2,Maximum Length of a Concatenated String with Unique Characters,5
+weekly-160,/contest/weekly-contest-160/problems/tiling-a-rectangle-with-the-fewest-squares,3,Tiling a Rectangle with the Fewest Squares,7
+weekly-161,/contest/weekly-contest-161/problems/minimum-swaps-to-make-strings-equal,0,Minimum Swaps to Make Strings Equal,4
+weekly-161,/contest/weekly-contest-161/problems/count-number-of-nice-subarrays,1,Count Number of Nice Subarrays,4
+weekly-161,/contest/weekly-contest-161/problems/minimum-remove-to-make-valid-parentheses,2,Minimum Remove to Make Valid Parentheses,5
+weekly-161,/contest/weekly-contest-161/problems/check-if-it-is-a-good-array,3,Check If It Is a Good Array,6
+weekly-162,/contest/weekly-contest-162/problems/cells-with-odd-values-in-a-matrix,0,Cells with Odd Values in a Matrix,3
+weekly-162,/contest/weekly-contest-162/problems/reconstruct-a-2-row-binary-matrix,1,Reconstruct a 2-Row Binary Matrix,4
+weekly-162,/contest/weekly-contest-162/problems/number-of-closed-islands,2,Number of Closed Islands,5
+weekly-162,/contest/weekly-contest-162/problems/maximum-score-words-formed-by-letters,3,Maximum Score Words Formed by Letters,6
+weekly-163,/contest/weekly-contest-163/problems/shift-2d-grid,0,Shift 2D Grid,3
+weekly-163,/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree,1,Find Elements in a Contaminated Binary Tree,4
+weekly-163,/contest/weekly-contest-163/problems/greatest-sum-divisible-by-three,2,Greatest Sum Divisible by Three,5
+weekly-163,/contest/weekly-contest-163/problems/minimum-moves-to-move-a-box-to-their-target-location,3,Minimum Moves to Move a Box to Their Target Location,8
+weekly-164,/contest/weekly-contest-164/problems/minimum-time-visiting-all-points,0,Minimum Time Visiting All Points,3
+weekly-164,/contest/weekly-contest-164/problems/count-servers-that-communicate,1,Count Servers that Communicate,4
+weekly-164,/contest/weekly-contest-164/problems/search-suggestions-system,2,Search Suggestions System,4
+weekly-164,/contest/weekly-contest-164/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps,3,Number of Ways to Stay in the Same Place After Some Steps,6
+weekly-165,/contest/weekly-contest-165/problems/find-winner-on-a-tic-tac-toe-game,0,Find Winner on a Tic Tac Toe Game,4
+weekly-165,/contest/weekly-contest-165/problems/number-of-burgers-with-no-waste-of-ingredients,1,Number of Burgers with No Waste of Ingredients,4
+weekly-165,/contest/weekly-contest-165/problems/count-square-submatrices-with-all-ones,2,Count Square Submatrices with All Ones,5
+weekly-165,/contest/weekly-contest-165/problems/palindrome-partitioning-iii,3,Palindrome Partitioning III,6
+weekly-166,/contest/weekly-contest-166/problems/subtract-the-product-and-sum-of-digits-of-an-integer,0,Subtract the Product and Sum of Digits of an Integer,3
+weekly-166,/contest/weekly-contest-166/problems/group-the-people-given-the-group-size-they-belong-to,1,Group the People Given the Group Size They Belong To,4
+weekly-166,/contest/weekly-contest-166/problems/find-the-smallest-divisor-given-a-threshold,2,Find the Smallest Divisor Given a Threshold,5
+weekly-166,/contest/weekly-contest-166/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix,3,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,6
+weekly-167,/contest/weekly-contest-167/problems/convert-binary-number-in-a-linked-list-to-integer,0,Convert Binary Number in a Linked List to Integer,3
+weekly-167,/contest/weekly-contest-167/problems/sequential-digits,1,Sequential Digits,5
+weekly-167,/contest/weekly-contest-167/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,2,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,5
+weekly-167,/contest/weekly-contest-167/problems/shortest-path-in-a-grid-with-obstacles-elimination,3,Shortest Path in a Grid with Obstacles Elimination,6
+weekly-168,/contest/weekly-contest-168/problems/find-numbers-with-even-number-of-digits,0,Find Numbers with Even Number of Digits,3
+weekly-168,/contest/weekly-contest-168/problems/divide-array-in-sets-of-k-consecutive-numbers,1,Divide Array in Sets of K Consecutive Numbers,4
+weekly-168,/contest/weekly-contest-168/problems/maximum-number-of-occurrences-of-a-substring,2,Maximum Number of Occurrences of a Substring,6
+weekly-168,/contest/weekly-contest-168/problems/maximum-candies-you-can-get-from-boxes,3,Maximum Candies You Can Get from Boxes,7
+weekly-169,/contest/weekly-contest-169/problems/find-n-unique-integers-sum-up-to-zero,0,Find N Unique Integers Sum up to Zero,3
+weekly-169,/contest/weekly-contest-169/problems/all-elements-in-two-binary-search-trees,1,All Elements in Two Binary Search Trees,4
+weekly-169,/contest/weekly-contest-169/problems/jump-game-iii,2,Jump Game III,5
+weekly-169,/contest/weekly-contest-169/problems/verbal-arithmetic-puzzle,3,Verbal Arithmetic Puzzle,7
+weekly-170,/contest/weekly-contest-170/problems/decrypt-string-from-alphabet-to-integer-mapping,0,Decrypt String from Alphabet to Integer Mapping,3
+weekly-170,/contest/weekly-contest-170/problems/xor-queries-of-a-subarray,1,XOR Queries of a Subarray,5
+weekly-170,/contest/weekly-contest-170/problems/get-watched-videos-by-your-friends,2,Get Watched Videos by Your Friends,5
+weekly-170,/contest/weekly-contest-170/problems/minimum-insertion-steps-to-make-a-string-palindrome,3,Minimum Insertion Steps to Make a String Palindrome,7
+weekly-171,/contest/weekly-contest-171/problems/convert-integer-to-the-sum-of-two-no-zero-integers,0,Convert Integer to the Sum of Two No-Zero Integers,3
+weekly-171,/contest/weekly-contest-171/problems/minimum-flips-to-make-a-or-b-equal-to-c,1,Minimum Flips to Make a OR b Equal to c,4
+weekly-171,/contest/weekly-contest-171/problems/number-of-operations-to-make-network-connected,2,Number of Operations to Make Network Connected,5
+weekly-171,/contest/weekly-contest-171/problems/minimum-distance-to-type-a-word-using-two-fingers,3,Minimum Distance to Type a Word Using Two Fingers,7
+weekly-172,/contest/weekly-contest-172/problems/maximum-69-number,0,Maximum 69 Number,3
+weekly-172,/contest/weekly-contest-172/problems/print-words-vertically,1,Print Words Vertically,4
+weekly-172,/contest/weekly-contest-172/problems/delete-leaves-with-a-given-value,2,Delete Leaves With a Given Value,5
+weekly-172,/contest/weekly-contest-172/problems/minimum-number-of-taps-to-open-to-water-a-garden,3,Minimum Number of Taps to Open to Water a Garden,6
+weekly-173,/contest/weekly-contest-173/problems/remove-palindromic-subsequences,0,Remove Palindromic Subsequences,3
+weekly-173,/contest/weekly-contest-173/problems/filter-restaurants-by-vegan-friendly-price-and-distance,1,"Filter Restaurants by Vegan-Friendly, Price and Distance",4
+weekly-173,/contest/weekly-contest-173/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance,2,Find the City With the Smallest Number of Neighbors at a Threshold Distance,5
+weekly-173,/contest/weekly-contest-173/problems/minimum-difficulty-of-a-job-schedule,3,Minimum Difficulty of a Job Schedule,6
+weekly-174,/contest/weekly-contest-174/problems/the-k-weakest-rows-in-a-matrix,0,The K Weakest Rows in a Matrix,3
+weekly-174,/contest/weekly-contest-174/problems/reduce-array-size-to-the-half,1,Reduce Array Size to The Half,4
+weekly-174,/contest/weekly-contest-174/problems/maximum-product-of-splitted-binary-tree,2,Maximum Product of Splitted Binary Tree,5
+weekly-174,/contest/weekly-contest-174/problems/jump-game-v,3,Jump Game V,6
+weekly-175,/contest/weekly-contest-175/problems/check-if-n-and-its-double-exist,0,Check If N and Its Double Exist,3
+weekly-175,/contest/weekly-contest-175/problems/minimum-number-of-steps-to-make-two-strings-anagram,1,Minimum Number of Steps to Make Two Strings Anagram,4
+weekly-175,/contest/weekly-contest-175/problems/tweet-counts-per-frequency,2,Tweet Counts Per Frequency,5
+weekly-175,/contest/weekly-contest-175/problems/maximum-students-taking-exam,3,Maximum Students Taking Exam,7
+weekly-176,/contest/weekly-contest-176/problems/count-negative-numbers-in-a-sorted-matrix,0,Count Negative Numbers in a Sorted Matrix,3
+weekly-176,/contest/weekly-contest-176/problems/product-of-the-last-k-numbers,1,Product of the Last K Numbers,5
+weekly-176,/contest/weekly-contest-176/problems/maximum-number-of-events-that-can-be-attended,2,Maximum Number of Events That Can Be Attended,5
+weekly-176,/contest/weekly-contest-176/problems/construct-target-array-with-multiple-sums,3,Construct Target Array With Multiple Sums,6
+weekly-177,/contest/weekly-contest-177/problems/number-of-days-between-two-dates,0,Number of Days Between Two Dates,4
+weekly-177,/contest/weekly-contest-177/problems/validate-binary-tree-nodes,1,Validate Binary Tree Nodes,5
+weekly-177,/contest/weekly-contest-177/problems/closest-divisors,2,Closest Divisors,5
+weekly-177,/contest/weekly-contest-177/problems/largest-multiple-of-three,3,Largest Multiple of Three,6
+weekly-178,/contest/weekly-contest-178/problems/how-many-numbers-are-smaller-than-the-current-number,0,How Many Numbers Are Smaller Than the Current Number,3
+weekly-178,/contest/weekly-contest-178/problems/rank-teams-by-votes,1,Rank Teams by Votes,4
+weekly-178,/contest/weekly-contest-178/problems/linked-list-in-binary-tree,2,Linked List in Binary Tree,5
+weekly-178,/contest/weekly-contest-178/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,3,Minimum Cost to Make at Least One Valid Path in a Grid,7
+weekly-179,/contest/weekly-contest-179/problems/generate-a-string-with-characters-that-have-odd-counts,0,Generate a String With Characters That Have Odd Counts,3
+weekly-179,/contest/weekly-contest-179/problems/number-of-times-binary-string-is-prefix-aligned,1,Number of Times Binary String Is Prefix-Aligned,4
+weekly-179,/contest/weekly-contest-179/problems/time-needed-to-inform-all-employees,2,Time Needed to Inform All Employees,5
+weekly-179,/contest/weekly-contest-179/problems/frog-position-after-t-seconds,3,Frog Position After T Seconds,6
+weekly-180,/contest/weekly-contest-180/problems/lucky-numbers-in-a-matrix,0,Lucky Numbers in a Matrix,3
+weekly-180,/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation,1,Design a Stack With Increment Operation,4
+weekly-180,/contest/weekly-contest-180/problems/balance-a-binary-search-tree,2,Balance a Binary Search Tree,4
+weekly-180,/contest/weekly-contest-180/problems/maximum-performance-of-a-team,3,Maximum Performance of a Team,6
+weekly-181,/contest/weekly-contest-181/problems/create-target-array-in-the-given-order,0,Create Target Array in the Given Order,3
+weekly-181,/contest/weekly-contest-181/problems/four-divisors,1,Four Divisors,4
+weekly-181,/contest/weekly-contest-181/problems/check-if-there-is-a-valid-path-in-a-grid,2,Check if There is a Valid Path in a Grid,5
+weekly-181,/contest/weekly-contest-181/problems/longest-happy-prefix,3,Longest Happy Prefix,6
+weekly-182,/contest/weekly-contest-182/problems/find-lucky-integer-in-an-array,0,Find Lucky Integer in an Array,3
+weekly-182,/contest/weekly-contest-182/problems/count-number-of-teams,1,Count Number of Teams,4
+weekly-182,/contest/weekly-contest-182/problems/design-underground-system,2,Design Underground System,5
+weekly-182,/contest/weekly-contest-182/problems/find-all-good-strings,3,Find All Good Strings,8
+weekly-183,/contest/weekly-contest-183/problems/minimum-subsequence-in-non-increasing-order,0,Minimum Subsequence in Non-Increasing Order,4
+weekly-183,/contest/weekly-contest-183/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,1,Number of Steps to Reduce a Number in Binary Representation to One,4
+weekly-183,/contest/weekly-contest-183/problems/longest-happy-string,2,Longest Happy String,6
+weekly-183,/contest/weekly-contest-183/problems/stone-game-iii,3,Stone Game III,7
+weekly-184,/contest/weekly-contest-184/problems/string-matching-in-an-array,0,String Matching in an Array,3
+weekly-184,/contest/weekly-contest-184/problems/queries-on-a-permutation-with-key,1,Queries on a Permutation With Key,4
+weekly-184,/contest/weekly-contest-184/problems/html-entity-parser,2,HTML Entity Parser,5
+weekly-184,/contest/weekly-contest-184/problems/number-of-ways-to-paint-n-3-grid,3,Number of Ways to Paint N × 3 Grid,7
+weekly-185,/contest/weekly-contest-185/problems/reformat-the-string,0,Reformat The String,3
+weekly-185,/contest/weekly-contest-185/problems/display-table-of-food-orders-in-a-restaurant,1,Display Table of Food Orders in a Restaurant,4
+weekly-185,/contest/weekly-contest-185/problems/minimum-number-of-frogs-croaking,2,Minimum Number of Frogs Croaking,5
+weekly-185,/contest/weekly-contest-185/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons,3,Build Array Where You Can Find The Maximum Exactly K Comparisons,6
+weekly-186,/contest/weekly-contest-186/problems/maximum-score-after-splitting-a-string,0,Maximum Score After Splitting a String,3
+weekly-186,/contest/weekly-contest-186/problems/maximum-points-you-can-obtain-from-cards,1,Maximum Points You Can Obtain from Cards,4
+weekly-186,/contest/weekly-contest-186/problems/diagonal-traverse-ii,2,Diagonal Traverse II,5
+weekly-186,/contest/weekly-contest-186/problems/constrained-subsequence-sum,3,Constrained Subsequence Sum,6
+weekly-187,/contest/weekly-contest-187/problems/destination-city,0,Destination City,3
+weekly-187,/contest/weekly-contest-187/problems/check-if-all-1s-are-at-least-length-k-places-away,1,Check If All 1's Are at Least Length K Places Away,4
+weekly-187,/contest/weekly-contest-187/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,2,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,5
+weekly-187,/contest/weekly-contest-187/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows,3,Find the Kth Smallest Sum of a Matrix With Sorted Rows,7
+weekly-188,/contest/weekly-contest-188/problems/build-an-array-with-stack-operations,0,Build an Array With Stack Operations,3
+weekly-188,/contest/weekly-contest-188/problems/count-triplets-that-can-form-two-arrays-of-equal-xor,1,Count Triplets That Can Form Two Arrays of Equal XOR,4
+weekly-188,/contest/weekly-contest-188/problems/minimum-time-to-collect-all-apples-in-a-tree,2,Minimum Time to Collect All Apples in a Tree,5
+weekly-188,/contest/weekly-contest-188/problems/number-of-ways-of-cutting-a-pizza,3,Number of Ways of Cutting a Pizza,7
+weekly-189,/contest/weekly-contest-189/problems/number-of-students-doing-homework-at-a-given-time,0,Number of Students Doing Homework at a Given Time,3
+weekly-189,/contest/weekly-contest-189/problems/rearrange-words-in-a-sentence,1,Rearrange Words in a Sentence,4
+weekly-189,/contest/weekly-contest-189/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list,2,People Whose List of Favorite Companies Is Not a Subset of Another List,5
+weekly-189,/contest/weekly-contest-189/problems/maximum-number-of-darts-inside-of-a-circular-dartboard,3,Maximum Number of Darts Inside of a Circular Dartboard,7
+weekly-190,/contest/weekly-contest-190/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence,0,Check If a Word Occurs As a Prefix of Any Word in a Sentence,3
+weekly-190,/contest/weekly-contest-190/problems/maximum-number-of-vowels-in-a-substring-of-given-length,1,Maximum Number of Vowels in a Substring of Given Length,4
+weekly-190,/contest/weekly-contest-190/problems/pseudo-palindromic-paths-in-a-binary-tree,2,Pseudo-Palindromic Paths in a Binary Tree,5
+weekly-190,/contest/weekly-contest-190/problems/max-dot-product-of-two-subsequences,3,Max Dot Product of Two Subsequences,6
+weekly-191,/contest/weekly-contest-191/problems/maximum-product-of-two-elements-in-an-array,0,Maximum Product of Two Elements in an Array,3
+weekly-191,/contest/weekly-contest-191/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts,1,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,4
+weekly-191,/contest/weekly-contest-191/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,2,Reorder Routes to Make All Paths Lead to the City Zero,5
+weekly-191,/contest/weekly-contest-191/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls,3,Probability of a Two Boxes Having The Same Number of Distinct Balls,7
+weekly-192,/contest/weekly-contest-192/problems/shuffle-the-array,0,Shuffle the Array,3
+weekly-192,/contest/weekly-contest-192/problems/the-k-strongest-values-in-an-array,1,The k Strongest Values in an Array,4
+weekly-192,/contest/weekly-contest-192/problems/design-browser-history,2,Design Browser History,5
+weekly-192,/contest/weekly-contest-192/problems/paint-house-iii,3,Paint House III,6
+weekly-193,/contest/weekly-contest-193/problems/running-sum-of-1d-array,0,Running Sum of 1d Array,3
+weekly-193,/contest/weekly-contest-193/problems/least-number-of-unique-integers-after-k-removals,1,Least Number of Unique Integers after K Removals,4
+weekly-193,/contest/weekly-contest-193/problems/minimum-number-of-days-to-make-m-bouquets,2,Minimum Number of Days to Make m Bouquets,5
+weekly-193,/contest/weekly-contest-193/problems/kth-ancestor-of-a-tree-node,3,Kth Ancestor of a Tree Node,6
+weekly-194,/contest/weekly-contest-194/problems/xor-operation-in-an-array,0,XOR Operation in an Array,3
+weekly-194,/contest/weekly-contest-194/problems/making-file-names-unique,1,Making File Names Unique,5
+weekly-194,/contest/weekly-contest-194/problems/avoid-flood-in-the-city,2,Avoid Flood in The City,6
+weekly-194,/contest/weekly-contest-194/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree,3,Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,7
+weekly-195,/contest/weekly-contest-195/problems/path-crossing,0,Path Crossing,3
+weekly-195,/contest/weekly-contest-195/problems/check-if-array-pairs-are-divisible-by-k,1,Check If Array Pairs Are Divisible by k,4
+weekly-195,/contest/weekly-contest-195/problems/number-of-subsequences-that-satisfy-the-given-sum-condition,2,Number of Subsequences That Satisfy the Given Sum Condition,6
+weekly-195,/contest/weekly-contest-195/problems/max-value-of-equation,3,Max Value of Equation,7
+weekly-196,/contest/weekly-contest-196/problems/can-make-arithmetic-progression-from-sequence,0,Can Make Arithmetic Progression From Sequence,3
+weekly-196,/contest/weekly-contest-196/problems/last-moment-before-all-ants-fall-out-of-a-plank,1,Last Moment Before All Ants Fall Out of a Plank,4
+weekly-196,/contest/weekly-contest-196/problems/count-submatrices-with-all-ones,2,Count Submatrices With All Ones,5
+weekly-196,/contest/weekly-contest-196/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits,3,Minimum Possible Integer After at Most K Adjacent Swaps On Digits,7
+weekly-197,/contest/weekly-contest-197/problems/number-of-good-pairs,0,Number of Good Pairs,3
+weekly-197,/contest/weekly-contest-197/problems/number-of-substrings-with-only-1s,1,Number of Substrings With Only 1s,4
+weekly-197,/contest/weekly-contest-197/problems/path-with-maximum-probability,2,Path with Maximum Probability,5
+weekly-197,/contest/weekly-contest-197/problems/best-position-for-a-service-centre,3,Best Position for a Service Centre,7
+weekly-198,/contest/weekly-contest-198/problems/water-bottles,0,Water Bottles,3
+weekly-198,/contest/weekly-contest-198/problems/number-of-nodes-in-the-sub-tree-with-the-same-label,1,Number of Nodes in the Sub-Tree With the Same Label,5
+weekly-198,/contest/weekly-contest-198/problems/maximum-number-of-non-overlapping-substrings,2,Maximum Number of Non-Overlapping Substrings,6
+weekly-198,/contest/weekly-contest-198/problems/find-a-value-of-a-mysterious-function-closest-to-target,3,Find a Value of a Mysterious Function Closest to Target,7
+weekly-199,/contest/weekly-contest-199/problems/shuffle-string,0,Shuffle String,3
+weekly-199,/contest/weekly-contest-199/problems/minimum-suffix-flips,1,Minimum Suffix Flips,4
+weekly-199,/contest/weekly-contest-199/problems/number-of-good-leaf-nodes-pairs,2,Number of Good Leaf Nodes Pairs,5
+weekly-199,/contest/weekly-contest-199/problems/string-compression-ii,3,String Compression II,8
+weekly-200,/contest/weekly-contest-200/problems/count-good-triplets,0,Count Good Triplets,3
+weekly-200,/contest/weekly-contest-200/problems/find-the-winner-of-an-array-game,1,Find the Winner of an Array Game,4
+weekly-200,/contest/weekly-contest-200/problems/minimum-swaps-to-arrange-a-binary-grid,2,Minimum Swaps to Arrange a Binary Grid,5
+weekly-200,/contest/weekly-contest-200/problems/get-the-maximum-score,3,Get the Maximum Score,6
+weekly-201,/contest/weekly-contest-201/problems/make-the-string-great,0,Make The String Great,3
+weekly-201,/contest/weekly-contest-201/problems/find-kth-bit-in-nth-binary-string,1,Find Kth Bit in Nth Binary String,4
+weekly-201,/contest/weekly-contest-201/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target,2,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,6
+weekly-201,/contest/weekly-contest-201/problems/minimum-cost-to-cut-a-stick,3,Minimum Cost to Cut a Stick,7
+weekly-202,/contest/weekly-contest-202/problems/three-consecutive-odds,0,Three Consecutive Odds,3
+weekly-202,/contest/weekly-contest-202/problems/minimum-operations-to-make-array-equal,1,Minimum Operations to Make Array Equal,4
+weekly-202,/contest/weekly-contest-202/problems/magnetic-force-between-two-balls,2,Magnetic Force Between Two Balls,5
+weekly-202,/contest/weekly-contest-202/problems/minimum-number-of-days-to-eat-n-oranges,3,Minimum Number of Days to Eat N Oranges,6
+weekly-203,/contest/weekly-contest-203/problems/most-visited-sector-in-a-circular-track,0,Most Visited Sector in  a Circular Track,3
+weekly-203,/contest/weekly-contest-203/problems/maximum-number-of-coins-you-can-get,1,Maximum Number of Coins You Can Get,4
+weekly-203,/contest/weekly-contest-203/problems/find-latest-group-of-size-m,2,Find Latest Group of Size M,6
+weekly-203,/contest/weekly-contest-203/problems/stone-game-v,3,Stone Game V,7
+weekly-204,/contest/weekly-contest-204/problems/detect-pattern-of-length-m-repeated-k-or-more-times,0,Detect Pattern of Length M Repeated K or More Times,3
+weekly-204,/contest/weekly-contest-204/problems/maximum-length-of-subarray-with-positive-product,1,Maximum Length of Subarray With Positive Product,4
+weekly-204,/contest/weekly-contest-204/problems/minimum-number-of-days-to-disconnect-island,2,Minimum Number of Days to Disconnect Island,6
+weekly-204,/contest/weekly-contest-204/problems/number-of-ways-to-reorder-array-to-get-same-bst,3,Number of Ways to Reorder Array to Get Same BST,7
+weekly-205,/contest/weekly-contest-205/problems/replace-all-s-to-avoid-consecutive-repeating-characters,0,Replace All ?'s to Avoid Consecutive Repeating Characters,3
+weekly-205,/contest/weekly-contest-205/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers,1,Number of Ways Where Square of Number Is Equal to Product of Two Numbers,5
+weekly-205,/contest/weekly-contest-205/problems/minimum-time-to-make-rope-colorful,2,Minimum Time to Make Rope Colorful,5
+weekly-205,/contest/weekly-contest-205/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable,3,Remove Max Number of Edges to Keep Graph Fully Traversable,6
+weekly-206,/contest/weekly-contest-206/problems/special-positions-in-a-binary-matrix,0,Special Positions in a Binary Matrix,3
+weekly-206,/contest/weekly-contest-206/problems/count-unhappy-friends,1,Count Unhappy Friends,4
+weekly-206,/contest/weekly-contest-206/problems/min-cost-to-connect-all-points,2,Min Cost to Connect All Points,5
+weekly-206,/contest/weekly-contest-206/problems/check-if-string-is-transformable-with-substring-sort-operations,3,Check If String Is Transformable With Substring Sort Operations,6
+weekly-207,/contest/weekly-contest-207/problems/rearrange-spaces-between-words,0,Rearrange Spaces Between Words,3
+weekly-207,/contest/weekly-contest-207/problems/split-a-string-into-the-max-number-of-unique-substrings,1,Split a String Into the Max Number of Unique Substrings,4
+weekly-207,/contest/weekly-contest-207/problems/maximum-non-negative-product-in-a-matrix,2,Maximum Non Negative Product in a Matrix,5
+weekly-207,/contest/weekly-contest-207/problems/minimum-cost-to-connect-two-groups-of-points,3,Minimum Cost to Connect Two Groups of Points,6
+weekly-208,/contest/weekly-contest-208/problems/crawler-log-folder,0,Crawler Log Folder,3
+weekly-208,/contest/weekly-contest-208/problems/maximum-profit-of-operating-a-centennial-wheel,1,Maximum Profit of Operating a Centennial Wheel,4
+weekly-208,/contest/weekly-contest-208/problems/throne-inheritance,2,Throne Inheritance,5
+weekly-208,/contest/weekly-contest-208/problems/maximum-number-of-achievable-transfer-requests,3,Maximum Number of Achievable Transfer Requests,6
+weekly-209,/contest/weekly-contest-209/problems/special-array-with-x-elements-greater-than-or-equal-x,0,Special Array With X Elements Greater Than or Equal X,3
+weekly-209,/contest/weekly-contest-209/problems/even-odd-tree,1,Even Odd Tree,4
+weekly-209,/contest/weekly-contest-209/problems/maximum-number-of-visible-points,2,Maximum Number of Visible Points,5
+weekly-209,/contest/weekly-contest-209/problems/minimum-one-bit-operations-to-make-integers-zero,3,Minimum One Bit Operations to Make Integers Zero,6
+weekly-210,/contest/weekly-contest-210/problems/maximum-nesting-depth-of-the-parentheses,0,Maximum Nesting Depth of the Parentheses,3
+weekly-210,/contest/weekly-contest-210/problems/maximal-network-rank,1,Maximal Network Rank,4
+weekly-210,/contest/weekly-contest-210/problems/split-two-strings-to-make-palindrome,2,Split Two Strings to Make Palindrome,5
+weekly-210,/contest/weekly-contest-210/problems/count-subtrees-with-max-distance-between-cities,3,Count Subtrees With Max Distance Between Cities,6
+weekly-211,/contest/weekly-contest-211/problems/largest-substring-between-two-equal-characters,0,Largest Substring Between Two Equal Characters,3
+weekly-211,/contest/weekly-contest-211/problems/lexicographically-smallest-string-after-applying-operations,1,Lexicographically Smallest String After Applying Operations,4
+weekly-211,/contest/weekly-contest-211/problems/best-team-with-no-conflicts,2,Best Team With No Conflicts,5
+weekly-211,/contest/weekly-contest-211/problems/graph-connectivity-with-threshold,3,Graph Connectivity With Threshold,6
+weekly-212,/contest/weekly-contest-212/problems/slowest-key,0,Slowest Key,3
+weekly-212,/contest/weekly-contest-212/problems/arithmetic-subarrays,1,Arithmetic Subarrays,4
+weekly-212,/contest/weekly-contest-212/problems/path-with-minimum-effort,2,Path With Minimum Effort,5
+weekly-212,/contest/weekly-contest-212/problems/rank-transform-of-a-matrix,3,Rank Transform of a Matrix,7
+weekly-213,/contest/weekly-contest-213/problems/check-array-formation-through-concatenation,0,Check Array Formation Through Concatenation,3
+weekly-213,/contest/weekly-contest-213/problems/count-sorted-vowel-strings,1,Count Sorted Vowel Strings,4
+weekly-213,/contest/weekly-contest-213/problems/furthest-building-you-can-reach,2,Furthest Building You Can Reach,5
+weekly-213,/contest/weekly-contest-213/problems/kth-smallest-instructions,3,Kth Smallest Instructions,6
+weekly-214,/contest/weekly-contest-214/problems/get-maximum-in-generated-array,0,Get Maximum in Generated Array,3
+weekly-214,/contest/weekly-contest-214/problems/minimum-deletions-to-make-character-frequencies-unique,1,Minimum Deletions to Make Character Frequencies Unique,4
+weekly-214,/contest/weekly-contest-214/problems/sell-diminishing-valued-colored-balls,2,Sell Diminishing-Valued Colored Balls,5
+weekly-214,/contest/weekly-contest-214/problems/create-sorted-array-through-instructions,3,Create Sorted Array through Instructions,6
+weekly-215,/contest/weekly-contest-215/problems/design-an-ordered-stream,0,Design an Ordered Stream,3
+weekly-215,/contest/weekly-contest-215/problems/determine-if-two-strings-are-close,1,Determine if Two Strings Are Close,4
+weekly-215,/contest/weekly-contest-215/problems/minimum-operations-to-reduce-x-to-zero,2,Minimum Operations to Reduce X to Zero,5
+weekly-215,/contest/weekly-contest-215/problems/maximize-grid-happiness,3,Maximize Grid Happiness,7
+weekly-216,/contest/weekly-contest-216/problems/check-if-two-string-arrays-are-equivalent,0,Check If Two String Arrays are Equivalent,3
+weekly-216,/contest/weekly-contest-216/problems/smallest-string-with-a-given-numeric-value,1,Smallest String With A Given Numeric Value,4
+weekly-216,/contest/weekly-contest-216/problems/ways-to-make-a-fair-array,2,Ways to Make a Fair Array,5
+weekly-216,/contest/weekly-contest-216/problems/minimum-initial-energy-to-finish-tasks,3,Minimum Initial Energy to Finish Tasks,6
+weekly-217,/contest/weekly-contest-217/problems/richest-customer-wealth,0,Richest Customer Wealth,3
+weekly-217,/contest/weekly-contest-217/problems/find-the-most-competitive-subsequence,1,Find the Most Competitive Subsequence,4
+weekly-217,/contest/weekly-contest-217/problems/minimum-moves-to-make-array-complementary,2,Minimum Moves to Make Array Complementary,6
+weekly-217,/contest/weekly-contest-217/problems/minimize-deviation-in-array,3,Minimize Deviation in Array,7
+weekly-218,/contest/weekly-contest-218/problems/goal-parser-interpretation,0,Goal Parser Interpretation,3
+weekly-218,/contest/weekly-contest-218/problems/max-number-of-k-sum-pairs,1,Max Number of K-Sum Pairs,4
+weekly-218,/contest/weekly-contest-218/problems/concatenation-of-consecutive-binary-numbers,2,Concatenation of Consecutive Binary Numbers,5
+weekly-218,/contest/weekly-contest-218/problems/minimum-incompatibility,3,Minimum Incompatibility,6
+weekly-219,/contest/weekly-contest-219/problems/count-of-matches-in-tournament,0,Count of Matches in Tournament,3
+weekly-219,/contest/weekly-contest-219/problems/partitioning-into-minimum-number-of-deci-binary-numbers,1,Partitioning Into Minimum Number Of Deci-Binary Numbers,4
+weekly-219,/contest/weekly-contest-219/problems/stone-game-vii,2,Stone Game VII,5
+weekly-219,/contest/weekly-contest-219/problems/maximum-height-by-stacking-cuboids,3,Maximum Height by Stacking Cuboids ,6
+weekly-220,/contest/weekly-contest-220/problems/reformat-phone-number,0,Reformat Phone Number,3
+weekly-220,/contest/weekly-contest-220/problems/maximum-erasure-value,1,Maximum Erasure Value,4
+weekly-220,/contest/weekly-contest-220/problems/jump-game-vi,2,Jump Game VI,5
+weekly-220,/contest/weekly-contest-220/problems/checking-existence-of-edge-length-limited-paths,3,Checking Existence of Edge Length Limited Paths,6
+weekly-221,/contest/weekly-contest-221/problems/determine-if-string-halves-are-alike,0,Determine if String Halves Are Alike,3
+weekly-221,/contest/weekly-contest-221/problems/maximum-number-of-eaten-apples,1,Maximum Number of Eaten Apples,4
+weekly-221,/contest/weekly-contest-221/problems/where-will-the-ball-fall,2,Where Will the Ball Fall,5
+weekly-221,/contest/weekly-contest-221/problems/maximum-xor-with-an-element-from-array,3,Maximum XOR With an Element From Array,6
+weekly-222,/contest/weekly-contest-222/problems/maximum-units-on-a-truck,0,Maximum Units on a Truck,3
+weekly-222,/contest/weekly-contest-222/problems/count-good-meals,1,Count Good Meals,4
+weekly-222,/contest/weekly-contest-222/problems/ways-to-split-array-into-three-subarrays,2,Ways to Split Array Into Three Subarrays,5
+weekly-222,/contest/weekly-contest-222/problems/minimum-operations-to-make-a-subsequence,3,Minimum Operations to Make a Subsequence,6
+weekly-223,/contest/weekly-contest-223/problems/decode-xored-array,0,Decode XORed Array,3
+weekly-223,/contest/weekly-contest-223/problems/swapping-nodes-in-a-linked-list,1,Swapping Nodes in a Linked List,4
+weekly-223,/contest/weekly-contest-223/problems/minimize-hamming-distance-after-swap-operations,2,Minimize Hamming Distance After Swap Operations,5
+weekly-223,/contest/weekly-contest-223/problems/find-minimum-time-to-finish-all-jobs,3,Find Minimum Time to Finish All Jobs,6
+weekly-224,/contest/weekly-contest-224/problems/number-of-rectangles-that-can-form-the-largest-square,0,Number Of Rectangles That Can Form The Largest Square,3
+weekly-224,/contest/weekly-contest-224/problems/tuple-with-same-product,1,Tuple with Same Product,4
+weekly-224,/contest/weekly-contest-224/problems/largest-submatrix-with-rearrangements,2,Largest Submatrix With Rearrangements,5
+weekly-224,/contest/weekly-contest-224/problems/cat-and-mouse-ii,3,Cat and Mouse II,7
+weekly-225,/contest/weekly-contest-225/problems/latest-time-by-replacing-hidden-digits,0,Latest Time by Replacing Hidden Digits,3
+weekly-225,/contest/weekly-contest-225/problems/change-minimum-characters-to-satisfy-one-of-three-conditions,1,Change Minimum Characters to Satisfy One of Three Conditions,4
+weekly-225,/contest/weekly-contest-225/problems/find-kth-largest-xor-coordinate-value,2,Find Kth Largest XOR Coordinate Value,5
+weekly-225,/contest/weekly-contest-225/problems/building-boxes,3,Building Boxes,6
+weekly-226,/contest/weekly-contest-226/problems/maximum-number-of-balls-in-a-box,0,Maximum Number of Balls in a Box,3
+weekly-226,/contest/weekly-contest-226/problems/restore-the-array-from-adjacent-pairs,1,Restore the Array From Adjacent Pairs,4
+weekly-226,/contest/weekly-contest-226/problems/can-you-eat-your-favorite-candy-on-your-favorite-day,2,Can You Eat Your Favorite Candy on Your Favorite Day?,5
+weekly-226,/contest/weekly-contest-226/problems/palindrome-partitioning-iv,3,Palindrome Partitioning IV,6
+weekly-227,/contest/weekly-contest-227/problems/check-if-array-is-sorted-and-rotated,0,Check if Array Is Sorted and Rotated,3
+weekly-227,/contest/weekly-contest-227/problems/maximum-score-from-removing-stones,1,Maximum Score From Removing Stones,4
+weekly-227,/contest/weekly-contest-227/problems/largest-merge-of-two-strings,2,Largest Merge Of Two Strings,5
+weekly-227,/contest/weekly-contest-227/problems/closest-subsequence-sum,3,Closest Subsequence Sum,6
+weekly-228,/contest/weekly-contest-228/problems/minimum-changes-to-make-alternating-binary-string,0,Minimum Changes To Make Alternating Binary String,3
+weekly-228,/contest/weekly-contest-228/problems/count-number-of-homogenous-substrings,1,Count Number of Homogenous Substrings,4
+weekly-228,/contest/weekly-contest-228/problems/minimum-limit-of-balls-in-a-bag,2,Minimum Limit of Balls in a Bag,5
+weekly-228,/contest/weekly-contest-228/problems/minimum-degree-of-a-connected-trio-in-a-graph,3,Minimum Degree of a Connected Trio in a Graph,5
+weekly-229,/contest/weekly-contest-229/problems/merge-strings-alternately,0,Merge Strings Alternately,3
+weekly-229,/contest/weekly-contest-229/problems/minimum-number-of-operations-to-move-all-balls-to-each-box,1,Minimum Number of Operations to Move All Balls to Each Box,4
+weekly-229,/contest/weekly-contest-229/problems/maximum-score-from-performing-multiplication-operations,2,Maximum Score from Performing Multiplication Operations,5
+weekly-229,/contest/weekly-contest-229/problems/maximize-palindrome-length-from-subsequences,3,Maximize Palindrome Length From Subsequences,6
+weekly-230,/contest/weekly-contest-230/problems/count-items-matching-a-rule,0,Count Items Matching a Rule,3
+weekly-230,/contest/weekly-contest-230/problems/closest-dessert-cost,1,Closest Dessert Cost,4
+weekly-230,/contest/weekly-contest-230/problems/equal-sum-arrays-with-minimum-number-of-operations,2,Equal Sum Arrays With Minimum Number of Operations,5
+weekly-230,/contest/weekly-contest-230/problems/car-fleet-ii,3,Car Fleet II,7
+weekly-231,/contest/weekly-contest-231/problems/check-if-binary-string-has-at-most-one-segment-of-ones,0,Check if Binary String Has at Most One Segment of Ones,3
+weekly-231,/contest/weekly-contest-231/problems/minimum-elements-to-add-to-form-a-given-sum,1,Minimum Elements to Add to Form a Given Sum,4
+weekly-231,/contest/weekly-contest-231/problems/number-of-restricted-paths-from-first-to-last-node,2,Number of Restricted Paths From First to Last Node,6
+weekly-231,/contest/weekly-contest-231/problems/make-the-xor-of-all-segments-equal-to-zero,3,Make the XOR of All Segments Equal to Zero,7
+weekly-232,/contest/weekly-contest-232/problems/check-if-one-string-swap-can-make-strings-equal,0,Check if One String Swap Can Make Strings Equal,3
+weekly-232,/contest/weekly-contest-232/problems/find-center-of-star-graph,1,Find Center of Star Graph,3
+weekly-232,/contest/weekly-contest-232/problems/maximum-average-pass-ratio,2,Maximum Average Pass Ratio,5
+weekly-232,/contest/weekly-contest-232/problems/maximum-score-of-a-good-subarray,3,Maximum Score of a Good Subarray,6
+weekly-233,/contest/weekly-contest-233/problems/maximum-ascending-subarray-sum,0,Maximum Ascending Subarray Sum,3
+weekly-233,/contest/weekly-contest-233/problems/number-of-orders-in-the-backlog,1,Number of Orders in the Backlog,5
+weekly-233,/contest/weekly-contest-233/problems/maximum-value-at-a-given-index-in-a-bounded-array,2,Maximum Value at a Given Index in a Bounded Array,5
+weekly-233,/contest/weekly-contest-233/problems/count-pairs-with-xor-in-a-range,3,Count Pairs With XOR in a Range,7
+weekly-234,/contest/weekly-contest-234/problems/number-of-different-integers-in-a-string,0,Number of Different Integers in a String,3
+weekly-234,/contest/weekly-contest-234/problems/minimum-number-of-operations-to-reinitialize-a-permutation,1,Minimum Number of Operations to Reinitialize a Permutation,5
+weekly-234,/contest/weekly-contest-234/problems/evaluate-the-bracket-pairs-of-a-string,2,Evaluate the Bracket Pairs of a String,5
+weekly-234,/contest/weekly-contest-234/problems/maximize-number-of-nice-divisors,3,Maximize Number of Nice Divisors,6
+weekly-235,/contest/weekly-contest-235/problems/truncate-sentence,0,Truncate Sentence,3
+weekly-235,/contest/weekly-contest-235/problems/finding-the-users-active-minutes,1,Finding the Users Active Minutes,4
+weekly-235,/contest/weekly-contest-235/problems/minimum-absolute-sum-difference,2,Minimum Absolute Sum Difference,5
+weekly-235,/contest/weekly-contest-235/problems/number-of-different-subsequences-gcds,3,Number of Different Subsequences GCDs,6
+weekly-236,/contest/weekly-contest-236/problems/sign-of-the-product-of-an-array,0,Sign of the Product of an Array,3
+weekly-236,/contest/weekly-contest-236/problems/find-the-winner-of-the-circular-game,1,Find the Winner of the Circular Game,4
+weekly-236,/contest/weekly-contest-236/problems/minimum-sideway-jumps,2,Minimum Sideway Jumps,5
+weekly-236,/contest/weekly-contest-236/problems/finding-mk-average,3,Finding MK Average,6
+weekly-237,/contest/weekly-contest-237/problems/check-if-the-sentence-is-pangram,0,Check if the Sentence Is Pangram,3
+weekly-237,/contest/weekly-contest-237/problems/maximum-ice-cream-bars,1,Maximum Ice Cream Bars,4
+weekly-237,/contest/weekly-contest-237/problems/single-threaded-cpu,2,Single-Threaded CPU,5
+weekly-237,/contest/weekly-contest-237/problems/find-xor-sum-of-all-pairs-bitwise-and,3,Find XOR Sum of All Pairs Bitwise AND,6
+weekly-238,/contest/weekly-contest-238/problems/sum-of-digits-in-base-k,0,Sum of Digits in Base K,3
+weekly-238,/contest/weekly-contest-238/problems/frequency-of-the-most-frequent-element,1,Frequency of the Most Frequent Element,4
+weekly-238,/contest/weekly-contest-238/problems/longest-substring-of-all-vowels-in-order,2,Longest Substring Of All Vowels in Order,5
+weekly-238,/contest/weekly-contest-238/problems/maximum-building-height,3,Maximum Building Height,6
+weekly-239,/contest/weekly-contest-239/problems/minimum-distance-to-the-target-element,0,Minimum Distance to the Target Element,3
+weekly-239,/contest/weekly-contest-239/problems/splitting-a-string-into-descending-consecutive-values,1,Splitting a String Into Descending Consecutive Values,4
+weekly-239,/contest/weekly-contest-239/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number,2,Minimum Adjacent Swaps to Reach the Kth Smallest Number,5
+weekly-239,/contest/weekly-contest-239/problems/minimum-interval-to-include-each-query,3,Minimum Interval to Include Each Query,6
+weekly-240,/contest/weekly-contest-240/problems/maximum-population-year,0,Maximum Population Year,3
+weekly-240,/contest/weekly-contest-240/problems/maximum-distance-between-a-pair-of-values,1,Maximum Distance Between a Pair of Values,4
+weekly-240,/contest/weekly-contest-240/problems/maximum-subarray-min-product,2,Maximum Subarray Min-Product,5
+weekly-240,/contest/weekly-contest-240/problems/largest-color-value-in-a-directed-graph,3,Largest Color Value in a Directed Graph,6
+weekly-241,/contest/weekly-contest-241/problems/sum-of-all-subset-xor-totals,0,Sum of All Subset XOR Totals,3
+weekly-241,/contest/weekly-contest-241/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating,1,Minimum Number of Swaps to Make the Binary String Alternating,4
+weekly-241,/contest/weekly-contest-241/problems/finding-pairs-with-a-certain-sum,2,Finding Pairs With a Certain Sum,5
+weekly-241,/contest/weekly-contest-241/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible,3,Number of Ways to Rearrange Sticks With K Sticks Visible,6
+weekly-242,/contest/weekly-contest-242/problems/longer-contiguous-segments-of-ones-than-zeros,0,Longer Contiguous Segments of Ones than Zeros,3
+weekly-242,/contest/weekly-contest-242/problems/minimum-speed-to-arrive-on-time,1,Minimum Speed to Arrive on Time,4
+weekly-242,/contest/weekly-contest-242/problems/jump-game-vii,2,Jump Game VII,5
+weekly-242,/contest/weekly-contest-242/problems/stone-game-viii,3,Stone Game VIII,6
+weekly-243,/contest/weekly-contest-243/problems/check-if-word-equals-summation-of-two-words,0,Check if Word Equals Summation of Two Words,3
+weekly-243,/contest/weekly-contest-243/problems/maximum-value-after-insertion,1,Maximum Value after Insertion,4
+weekly-243,/contest/weekly-contest-243/problems/process-tasks-using-servers,2,Process Tasks Using Servers,5
+weekly-243,/contest/weekly-contest-243/problems/minimum-skips-to-arrive-at-meeting-on-time,3,Minimum Skips to Arrive at Meeting On Time,6
+weekly-244,/contest/weekly-contest-244/problems/determine-whether-matrix-can-be-obtained-by-rotation,0,Determine Whether Matrix Can Be Obtained By Rotation,3
+weekly-244,/contest/weekly-contest-244/problems/reduction-operations-to-make-the-array-elements-equal,1,Reduction Operations to Make the Array Elements Equal,4
+weekly-244,/contest/weekly-contest-244/problems/minimum-number-of-flips-to-make-the-binary-string-alternating,2,Minimum Number of Flips to Make the Binary String Alternating,5
+weekly-244,/contest/weekly-contest-244/problems/minimum-space-wasted-from-packaging,3,Minimum Space Wasted From Packaging,6
+weekly-245,/contest/weekly-contest-245/problems/redistribute-characters-to-make-all-strings-equal,0,Redistribute Characters to Make All Strings Equal,3
+weekly-245,/contest/weekly-contest-245/problems/maximum-number-of-removable-characters,1,Maximum Number of Removable Characters,4
+weekly-245,/contest/weekly-contest-245/problems/merge-triplets-to-form-target-triplet,2,Merge Triplets to Form Target Triplet,5
+weekly-245,/contest/weekly-contest-245/problems/the-earliest-and-latest-rounds-where-players-compete,3,The Earliest and Latest Rounds Where Players Compete,6
+weekly-246,/contest/weekly-contest-246/problems/largest-odd-number-in-string,0,Largest Odd Number in String,3
+weekly-246,/contest/weekly-contest-246/problems/the-number-of-full-rounds-you-have-played,1,The Number of Full Rounds You Have Played,4
+weekly-246,/contest/weekly-contest-246/problems/count-sub-islands,2,Count Sub Islands,5
+weekly-246,/contest/weekly-contest-246/problems/minimum-absolute-difference-queries,3,Minimum Absolute Difference Queries,5
+weekly-247,/contest/weekly-contest-247/problems/maximum-product-difference-between-two-pairs,0,Maximum Product Difference Between Two Pairs,3
+weekly-247,/contest/weekly-contest-247/problems/cyclically-rotating-a-grid,1,Cyclically Rotating a Grid,4
+weekly-247,/contest/weekly-contest-247/problems/number-of-wonderful-substrings,2,Number of Wonderful Substrings,5
+weekly-247,/contest/weekly-contest-247/problems/count-ways-to-build-rooms-in-an-ant-colony,3,Count Ways to Build Rooms in an Ant Colony,6
+weekly-248,/contest/weekly-contest-248/problems/build-array-from-permutation,0,Build Array from Permutation,3
+weekly-248,/contest/weekly-contest-248/problems/eliminate-maximum-number-of-monsters,1,Eliminate Maximum Number of Monsters,4
+weekly-248,/contest/weekly-contest-248/problems/count-good-numbers,2,Count Good Numbers,4
+weekly-248,/contest/weekly-contest-248/problems/longest-common-subpath,3,Longest Common Subpath,6
+weekly-249,/contest/weekly-contest-249/problems/concatenation-of-array,0,Concatenation of Array,3
+weekly-249,/contest/weekly-contest-249/problems/unique-length-3-palindromic-subsequences,1,Unique Length-3 Palindromic Subsequences,4
+weekly-249,/contest/weekly-contest-249/problems/painting-a-grid-with-three-different-colors,2,Painting a Grid With Three Different Colors,6
+weekly-249,/contest/weekly-contest-249/problems/merge-bsts-to-create-single-bst,3,Merge BSTs to Create Single BST,6
+weekly-250,/contest/weekly-contest-250/problems/maximum-number-of-words-you-can-type,0,Maximum Number of Words You Can Type,3
+weekly-250,/contest/weekly-contest-250/problems/add-minimum-number-of-rungs,1,Add Minimum Number of Rungs,4
+weekly-250,/contest/weekly-contest-250/problems/maximum-number-of-points-with-cost,2,Maximum Number of Points with Cost,5
+weekly-250,/contest/weekly-contest-250/problems/maximum-genetic-difference-query,3,Maximum Genetic Difference Query,6
+weekly-251,/contest/weekly-contest-251/problems/sum-of-digits-of-string-after-convert,0,Sum of Digits of String After Convert,3
+weekly-251,/contest/weekly-contest-251/problems/largest-number-after-mutating-substring,1,Largest Number After Mutating Substring,4
+weekly-251,/contest/weekly-contest-251/problems/maximum-compatibility-score-sum,2,Maximum Compatibility Score Sum,5
+weekly-251,/contest/weekly-contest-251/problems/delete-duplicate-folders-in-system,3,Delete Duplicate Folders in System,6
+weekly-252,/contest/weekly-contest-252/problems/three-divisors,0,Three Divisors,3
+weekly-252,/contest/weekly-contest-252/problems/maximum-number-of-weeks-for-which-you-can-work,1,Maximum Number of Weeks for Which You Can Work,4
+weekly-252,/contest/weekly-contest-252/problems/minimum-garden-perimeter-to-collect-enough-apples,2,Minimum Garden Perimeter to Collect Enough Apples,5
+weekly-252,/contest/weekly-contest-252/problems/count-number-of-special-subsequences,3,Count Number of Special Subsequences,6
+weekly-253,/contest/weekly-contest-253/problems/check-if-string-is-a-prefix-of-array,0,Check If String Is a Prefix of Array,3
+weekly-253,/contest/weekly-contest-253/problems/remove-stones-to-minimize-the-total,1,Remove Stones to Minimize the Total,4
+weekly-253,/contest/weekly-contest-253/problems/minimum-number-of-swaps-to-make-the-string-balanced,2,Minimum Number of Swaps to Make the String Balanced,5
+weekly-253,/contest/weekly-contest-253/problems/find-the-longest-valid-obstacle-course-at-each-position,3,Find the Longest Valid Obstacle Course at Each Position,6
+weekly-254,/contest/weekly-contest-254/problems/number-of-strings-that-appear-as-substrings-in-word,0,Number of Strings That Appear as Substrings in Word,3
+weekly-254,/contest/weekly-contest-254/problems/array-with-elements-not-equal-to-average-of-neighbors,1,Array With Elements Not Equal to Average of Neighbors,4
+weekly-254,/contest/weekly-contest-254/problems/minimum-non-zero-product-of-the-array-elements,2,Minimum Non-Zero Product of the Array Elements,5
+weekly-254,/contest/weekly-contest-254/problems/last-day-where-you-can-still-cross,3,Last Day Where You Can Still Cross,6
+weekly-255,/contest/weekly-contest-255/problems/find-greatest-common-divisor-of-array,0,Find Greatest Common Divisor of Array,3
+weekly-255,/contest/weekly-contest-255/problems/find-unique-binary-string,1,Find Unique Binary String,4
+weekly-255,/contest/weekly-contest-255/problems/minimize-the-difference-between-target-and-chosen-elements,2,Minimize the Difference Between Target and Chosen Elements,5
+weekly-255,/contest/weekly-contest-255/problems/find-array-given-subset-sums,3,Find Array Given Subset Sums,6
+weekly-256,/contest/weekly-contest-256/problems/minimum-difference-between-highest-and-lowest-of-k-scores,0,Minimum Difference Between Highest and Lowest of K Scores,3
+weekly-256,/contest/weekly-contest-256/problems/find-the-kth-largest-integer-in-the-array,1,Find the Kth Largest Integer in the Array,4
+weekly-256,/contest/weekly-contest-256/problems/minimum-number-of-work-sessions-to-finish-the-tasks,2,Minimum Number of Work Sessions to Finish the Tasks,6
+weekly-256,/contest/weekly-contest-256/problems/number-of-unique-good-subsequences,3,Number of Unique Good Subsequences,7
+weekly-257,/contest/weekly-contest-257/problems/count-special-quadruplets,0,Count Special Quadruplets,3
+weekly-257,/contest/weekly-contest-257/problems/the-number-of-weak-characters-in-the-game,1,The Number of Weak Characters in the Game,4
+weekly-257,/contest/weekly-contest-257/problems/first-day-where-you-have-been-in-all-the-rooms,2,First Day Where You Have Been in All the Rooms,5
+weekly-257,/contest/weekly-contest-257/problems/gcd-sort-of-an-array,3,GCD Sort of an Array,6
+weekly-258,/contest/weekly-contest-258/problems/reverse-prefix-of-word,0,Reverse Prefix of Word,3
+weekly-258,/contest/weekly-contest-258/problems/number-of-pairs-of-interchangeable-rectangles,1,Number of Pairs of Interchangeable Rectangles,4
+weekly-258,/contest/weekly-contest-258/problems/maximum-product-of-the-length-of-two-palindromic-subsequences,2,Maximum Product of the Length of Two Palindromic Subsequences,5
+weekly-258,/contest/weekly-contest-258/problems/smallest-missing-genetic-value-in-each-subtree,3,Smallest Missing Genetic Value in Each Subtree,6
+weekly-259,/contest/weekly-contest-259/problems/final-value-of-variable-after-performing-operations,0,Final Value of Variable After Performing Operations,3
+weekly-259,/contest/weekly-contest-259/problems/sum-of-beauty-in-the-array,1,Sum of Beauty in the Array,4
+weekly-259,/contest/weekly-contest-259/problems/detect-squares,2,Detect Squares,5
+weekly-259,/contest/weekly-contest-259/problems/longest-subsequence-repeated-k-times,3,Longest Subsequence Repeated k Times,6
+weekly-260,/contest/weekly-contest-260/problems/maximum-difference-between-increasing-elements,0,Maximum Difference Between Increasing Elements,3
+weekly-260,/contest/weekly-contest-260/problems/grid-game,1,Grid Game,4
+weekly-260,/contest/weekly-contest-260/problems/check-if-word-can-be-placed-in-crossword,2,Check if Word Can Be Placed In Crossword,5
+weekly-260,/contest/weekly-contest-260/problems/the-score-of-students-solving-math-expression,3,The Score of Students Solving Math Expression,6
+weekly-261,/contest/weekly-contest-261/problems/minimum-moves-to-convert-string,0,Minimum Moves to Convert String,3
+weekly-261,/contest/weekly-contest-261/problems/find-missing-observations,1,Find Missing Observations,4
+weekly-261,/contest/weekly-contest-261/problems/stone-game-ix,2,Stone Game IX,5
+weekly-261,/contest/weekly-contest-261/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter,3,Smallest K-Length Subsequence With Occurrences of a Letter,6
+weekly-262,/contest/weekly-contest-262/problems/two-out-of-three,0,Two Out of Three,3
+weekly-262,/contest/weekly-contest-262/problems/minimum-operations-to-make-a-uni-value-grid,1,Minimum Operations to Make a Uni-Value Grid,4
+weekly-262,/contest/weekly-contest-262/problems/stock-price-fluctuation,2,Stock Price Fluctuation ,5
+weekly-262,/contest/weekly-contest-262/problems/partition-array-into-two-arrays-to-minimize-sum-difference,3,Partition Array Into Two Arrays to Minimize Sum Difference,6
+weekly-263,/contest/weekly-contest-263/problems/check-if-numbers-are-ascending-in-a-sentence,0,Check if Numbers Are Ascending in a Sentence,3
+weekly-263,/contest/weekly-contest-263/problems/simple-bank-system,1,Simple Bank System,4
+weekly-263,/contest/weekly-contest-263/problems/count-number-of-maximum-bitwise-or-subsets,2,Count Number of Maximum Bitwise-OR Subsets,5
+weekly-263,/contest/weekly-contest-263/problems/second-minimum-time-to-reach-destination,3,Second Minimum Time to Reach Destination,6
+weekly-264,/contest/weekly-contest-264/problems/number-of-valid-words-in-a-sentence,0,Number of Valid Words in a Sentence,3
+weekly-264,/contest/weekly-contest-264/problems/next-greater-numerically-balanced-number,1,Next Greater Numerically Balanced Number,4
+weekly-264,/contest/weekly-contest-264/problems/count-nodes-with-the-highest-score,2,Count Nodes With the Highest Score,5
+weekly-264,/contest/weekly-contest-264/problems/parallel-courses-iii,3,Parallel Courses III,6
+weekly-265,/contest/weekly-contest-265/problems/smallest-index-with-equal-value,0,Smallest Index With Equal Value,3
+weekly-265,/contest/weekly-contest-265/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,1,Find the Minimum and Maximum Number of Nodes Between Critical Points,4
+weekly-265,/contest/weekly-contest-265/problems/minimum-operations-to-convert-number,2,Minimum Operations to Convert Number,5
+weekly-265,/contest/weekly-contest-265/problems/check-if-an-original-string-exists-given-two-encoded-strings,3,Check if an Original String Exists Given Two Encoded Strings,6
+weekly-266,/contest/weekly-contest-266/problems/count-vowel-substrings-of-a-string,0,Count Vowel Substrings of a String,3
+weekly-266,/contest/weekly-contest-266/problems/vowels-of-all-substrings,1,Vowels of All Substrings,4
+weekly-266,/contest/weekly-contest-266/problems/minimized-maximum-of-products-distributed-to-any-store,2,Minimized Maximum of Products Distributed to Any Store,5
+weekly-266,/contest/weekly-contest-266/problems/maximum-path-quality-of-a-graph,3,Maximum Path Quality of a Graph,6
+weekly-267,/contest/weekly-contest-267/problems/time-needed-to-buy-tickets,0,Time Needed to Buy Tickets,3
+weekly-267,/contest/weekly-contest-267/problems/reverse-nodes-in-even-length-groups,1,Reverse Nodes in Even Length Groups,4
+weekly-267,/contest/weekly-contest-267/problems/decode-the-slanted-ciphertext,2,Decode the Slanted Ciphertext,5
+weekly-267,/contest/weekly-contest-267/problems/process-restricted-friend-requests,3,Process Restricted Friend Requests,6
+weekly-268,/contest/weekly-contest-268/problems/two-furthest-houses-with-different-colors,0,Two Furthest Houses With Different Colors,3
+weekly-268,/contest/weekly-contest-268/problems/watering-plants,1,Watering Plants,4
+weekly-268,/contest/weekly-contest-268/problems/range-frequency-queries,2,Range Frequency Queries,5
+weekly-268,/contest/weekly-contest-268/problems/sum-of-k-mirror-numbers,3,Sum of k-Mirror Numbers,6
+weekly-269,/contest/weekly-contest-269/problems/find-target-indices-after-sorting-array,0,Find Target Indices After Sorting Array,3
+weekly-269,/contest/weekly-contest-269/problems/k-radius-subarray-averages,1,K Radius Subarray Averages,4
+weekly-269,/contest/weekly-contest-269/problems/removing-minimum-and-maximum-from-array,2,Removing Minimum and Maximum From Array,5
+weekly-269,/contest/weekly-contest-269/problems/find-all-people-with-secret,3,Find All People With Secret,6
+weekly-270,/contest/weekly-contest-270/problems/finding-3-digit-even-numbers,0,Finding 3-Digit Even Numbers,3
+weekly-270,/contest/weekly-contest-270/problems/delete-the-middle-node-of-a-linked-list,1,Delete the Middle Node of a Linked List,4
+weekly-270,/contest/weekly-contest-270/problems/step-by-step-directions-from-a-binary-tree-node-to-another,2,Step-By-Step Directions From a Binary Tree Node to Another,5
+weekly-270,/contest/weekly-contest-270/problems/valid-arrangement-of-pairs,3,Valid Arrangement of Pairs,6
+weekly-271,/contest/weekly-contest-271/problems/rings-and-rods,0,Rings and Rods,3
+weekly-271,/contest/weekly-contest-271/problems/sum-of-subarray-ranges,1,Sum of Subarray Ranges,4
+weekly-271,/contest/weekly-contest-271/problems/watering-plants-ii,2,Watering Plants II,5
+weekly-271,/contest/weekly-contest-271/problems/maximum-fruits-harvested-after-at-most-k-steps,3,Maximum Fruits Harvested After at Most K Steps,6
+weekly-272,/contest/weekly-contest-272/problems/find-first-palindromic-string-in-the-array,0,Find First Palindromic String in the Array,3
+weekly-272,/contest/weekly-contest-272/problems/adding-spaces-to-a-string,1,Adding Spaces to a String,4
+weekly-272,/contest/weekly-contest-272/problems/number-of-smooth-descent-periods-of-a-stock,2,Number of Smooth Descent Periods of a Stock,5
+weekly-272,/contest/weekly-contest-272/problems/minimum-operations-to-make-the-array-k-increasing,3,Minimum Operations to Make the Array K-Increasing,6
+weekly-273,/contest/weekly-contest-273/problems/a-number-after-a-double-reversal,0,A Number After a Double Reversal,3
+weekly-273,/contest/weekly-contest-273/problems/execution-of-all-suffix-instructions-staying-in-a-grid,1,Execution of All Suffix Instructions Staying in a Grid,4
+weekly-273,/contest/weekly-contest-273/problems/intervals-between-identical-elements,2,Intervals Between Identical Elements,5
+weekly-273,/contest/weekly-contest-273/problems/recover-the-original-array,3,Recover the Original Array,6
+weekly-274,/contest/weekly-contest-274/problems/check-if-all-as-appears-before-all-bs,0,Check if All A's Appears Before All B's,3
+weekly-274,/contest/weekly-contest-274/problems/number-of-laser-beams-in-a-bank,1,Number of Laser Beams in a Bank,4
+weekly-274,/contest/weekly-contest-274/problems/destroying-asteroids,2,Destroying Asteroids,5
+weekly-274,/contest/weekly-contest-274/problems/maximum-employees-to-be-invited-to-a-meeting,3,Maximum Employees to Be Invited to a Meeting,6
+weekly-275,/contest/weekly-contest-275/problems/check-if-every-row-and-column-contains-all-numbers,0,Check if Every Row and Column Contains All Numbers,3
+weekly-275,/contest/weekly-contest-275/problems/minimum-swaps-to-group-all-1s-together-ii,1,Minimum Swaps to Group All 1's Together II,4
+weekly-275,/contest/weekly-contest-275/problems/count-words-obtained-after-adding-a-letter,2,Count Words Obtained After Adding a Letter,5
+weekly-275,/contest/weekly-contest-275/problems/earliest-possible-day-of-full-bloom,3,Earliest Possible Day of Full Bloom,6
+weekly-276,/contest/weekly-contest-276/problems/divide-a-string-into-groups-of-size-k,0,Divide a String Into Groups of Size k,3
+weekly-276,/contest/weekly-contest-276/problems/minimum-moves-to-reach-target-score,1,Minimum Moves to Reach Target Score,4
+weekly-276,/contest/weekly-contest-276/problems/solving-questions-with-brainpower,2,Solving Questions With Brainpower,5
+weekly-276,/contest/weekly-contest-276/problems/maximum-running-time-of-n-computers,3,Maximum Running Time of N Computers,6
+weekly-277,/contest/weekly-contest-277/problems/count-elements-with-strictly-smaller-and-greater-elements,0,Count Elements With Strictly Smaller and Greater Elements ,3
+weekly-277,/contest/weekly-contest-277/problems/rearrange-array-elements-by-sign,1,Rearrange Array Elements by Sign,4
+weekly-277,/contest/weekly-contest-277/problems/find-all-lonely-numbers-in-the-array,2,Find All Lonely Numbers in the Array,5
+weekly-277,/contest/weekly-contest-277/problems/maximum-good-people-based-on-statements,3,Maximum Good People Based on Statements,6
+weekly-278,/contest/weekly-contest-278/problems/keep-multiplying-found-values-by-two,0,Keep Multiplying Found Values by Two,3
+weekly-278,/contest/weekly-contest-278/problems/all-divisions-with-the-highest-score-of-a-binary-array,1,All Divisions With the Highest Score of a Binary Array,4
+weekly-278,/contest/weekly-contest-278/problems/find-substring-with-given-hash-value,2,Find Substring With Given Hash Value,5
+weekly-278,/contest/weekly-contest-278/problems/groups-of-strings,3,Groups of Strings,6
+weekly-279,/contest/weekly-contest-279/problems/sort-even-and-odd-indices-independently,0,Sort Even and Odd Indices Independently,3
+weekly-279,/contest/weekly-contest-279/problems/smallest-value-of-the-rearranged-number,1,Smallest Value of the Rearranged Number,4
+weekly-279,/contest/weekly-contest-279/problems/design-bitset,2,Design Bitset,5
+weekly-279,/contest/weekly-contest-279/problems/minimum-time-to-remove-all-cars-containing-illegal-goods,3,Minimum Time to Remove All Cars Containing Illegal Goods,6
+weekly-280,/contest/weekly-contest-280/problems/count-operations-to-obtain-zero,0,Count Operations to Obtain Zero,3
+weekly-280,/contest/weekly-contest-280/problems/minimum-operations-to-make-the-array-alternating,1,Minimum Operations to Make the Array Alternating,4
+weekly-280,/contest/weekly-contest-280/problems/removing-minimum-number-of-magic-beans,2,Removing Minimum Number of Magic Beans,5
+weekly-280,/contest/weekly-contest-280/problems/maximum-and-sum-of-array,3,Maximum AND Sum of Array,6
+weekly-281,/contest/weekly-contest-281/problems/count-integers-with-even-digit-sum,0,Count Integers With Even Digit Sum,3
+weekly-281,/contest/weekly-contest-281/problems/merge-nodes-in-between-zeros,1,Merge Nodes in Between Zeros,4
+weekly-281,/contest/weekly-contest-281/problems/construct-string-with-repeat-limit,2,Construct String With Repeat Limit,5
+weekly-281,/contest/weekly-contest-281/problems/count-array-pairs-divisible-by-k,3,Count Array Pairs Divisible by K,6
+weekly-282,/contest/weekly-contest-282/problems/counting-words-with-a-given-prefix,0,Counting Words With a Given Prefix,3
+weekly-282,/contest/weekly-contest-282/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii,1,Minimum Number of Steps to Make Two Strings Anagram II,4
+weekly-282,/contest/weekly-contest-282/problems/minimum-time-to-complete-trips,2,Minimum Time to Complete Trips,5
+weekly-282,/contest/weekly-contest-282/problems/minimum-time-to-finish-the-race,3,Minimum Time to Finish the Race,6
+weekly-283,/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet,0,Cells in a Range on an Excel Sheet,3
+weekly-283,/contest/weekly-contest-283/problems/append-k-integers-with-minimal-sum,1,Append K Integers With Minimal Sum,4
+weekly-283,/contest/weekly-contest-283/problems/create-binary-tree-from-descriptions,2,Create Binary Tree From Descriptions,4
+weekly-283,/contest/weekly-contest-283/problems/replace-non-coprime-numbers-in-array,3,Replace Non-Coprime Numbers in Array,6
+weekly-284,/contest/weekly-contest-284/problems/find-all-k-distant-indices-in-an-array,0,Find All K-Distant Indices in an Array,3
+weekly-284,/contest/weekly-contest-284/problems/count-artifacts-that-can-be-extracted,1,Count Artifacts That Can Be Extracted,4
+weekly-284,/contest/weekly-contest-284/problems/maximize-the-topmost-element-after-k-moves,2,Maximize the Topmost Element After K Moves,5
+weekly-284,/contest/weekly-contest-284/problems/minimum-weighted-subgraph-with-the-required-paths,3,Minimum Weighted Subgraph With the Required Paths,6
+weekly-285,/contest/weekly-contest-285/problems/count-hills-and-valleys-in-an-array,0,Count Hills and Valleys in an Array,3
+weekly-285,/contest/weekly-contest-285/problems/count-collisions-on-a-road,1,Count Collisions on a Road,4
+weekly-285,/contest/weekly-contest-285/problems/maximum-points-in-an-archery-competition,2,Maximum Points in an Archery Competition,5
+weekly-285,/contest/weekly-contest-285/problems/longest-substring-of-one-repeating-character,3,Longest Substring of One Repeating Character,6
+weekly-286,/contest/weekly-contest-286/problems/find-the-difference-of-two-arrays,0,Find the Difference of Two Arrays,3
+weekly-286,/contest/weekly-contest-286/problems/minimum-deletions-to-make-array-beautiful,1,Minimum Deletions to Make Array Beautiful,4
+weekly-286,/contest/weekly-contest-286/problems/find-palindrome-with-fixed-length,2,Find Palindrome With Fixed Length,5
+weekly-286,/contest/weekly-contest-286/problems/maximum-value-of-k-coins-from-piles,3,Maximum Value of K Coins From Piles,6
+weekly-287,/contest/weekly-contest-287/problems/minimum-number-of-operations-to-convert-time,0,Minimum Number of Operations to Convert Time,3
+weekly-287,/contest/weekly-contest-287/problems/find-players-with-zero-or-one-losses,1,Find Players With Zero or One Losses,4
+weekly-287,/contest/weekly-contest-287/problems/maximum-candies-allocated-to-k-children,2,Maximum Candies Allocated to K Children,5
+weekly-287,/contest/weekly-contest-287/problems/encrypt-and-decrypt-strings,3,Encrypt and Decrypt Strings,6
+weekly-288,/contest/weekly-contest-288/problems/largest-number-after-digit-swaps-by-parity,0,Largest Number After Digit Swaps by Parity,3
+weekly-288,/contest/weekly-contest-288/problems/minimize-result-by-adding-parentheses-to-expression,1,Minimize Result by Adding Parentheses to Expression,4
+weekly-288,/contest/weekly-contest-288/problems/maximum-product-after-k-increments,2,Maximum Product After K Increments,5
+weekly-288,/contest/weekly-contest-288/problems/maximum-total-beauty-of-the-gardens,3,Maximum Total Beauty of the Gardens,6
+weekly-289,/contest/weekly-contest-289/problems/calculate-digit-sum-of-a-string,0,Calculate Digit Sum of a String,3
+weekly-289,/contest/weekly-contest-289/problems/minimum-rounds-to-complete-all-tasks,1,Minimum Rounds to Complete All Tasks,4
+weekly-289,/contest/weekly-contest-289/problems/maximum-trailing-zeros-in-a-cornered-path,2,Maximum Trailing Zeros in a Cornered Path,5
+weekly-289,/contest/weekly-contest-289/problems/longest-path-with-different-adjacent-characters,3,Longest Path With Different Adjacent Characters,6
+weekly-290,/contest/weekly-contest-290/problems/intersection-of-multiple-arrays,0,Intersection of Multiple Arrays,3
+weekly-290,/contest/weekly-contest-290/problems/count-lattice-points-inside-a-circle,1,Count Lattice Points Inside a Circle,4
+weekly-290,/contest/weekly-contest-290/problems/count-number-of-rectangles-containing-each-point,2,Count Number of Rectangles Containing Each Point,5
+weekly-290,/contest/weekly-contest-290/problems/number-of-flowers-in-full-bloom,3,Number of Flowers in Full Bloom,6
+weekly-291,/contest/weekly-contest-291/problems/remove-digit-from-number-to-maximize-result,0,Remove Digit From Number to Maximize Result,3
+weekly-291,/contest/weekly-contest-291/problems/minimum-consecutive-cards-to-pick-up,1,Minimum Consecutive Cards to Pick Up,4
+weekly-291,/contest/weekly-contest-291/problems/k-divisible-elements-subarrays,2,K Divisible Elements Subarrays,5
+weekly-291,/contest/weekly-contest-291/problems/total-appeal-of-a-string,3,Total Appeal of A String,6
+weekly-292,/contest/weekly-contest-292/problems/largest-3-same-digit-number-in-string,0,Largest 3-Same-Digit Number in String,3
+weekly-292,/contest/weekly-contest-292/problems/count-nodes-equal-to-average-of-subtree,1,Count Nodes Equal to Average of Subtree,4
+weekly-292,/contest/weekly-contest-292/problems/count-number-of-texts,2,Count Number of Texts,5
+weekly-292,/contest/weekly-contest-292/problems/check-if-there-is-a-valid-parentheses-string-path,3, Check if There Is a Valid Parentheses String Path,6
+weekly-293,/contest/weekly-contest-293/problems/find-resultant-array-after-removing-anagrams,0,Find Resultant Array After Removing Anagrams,3
+weekly-293,/contest/weekly-contest-293/problems/maximum-consecutive-floors-without-special-floors,1,Maximum Consecutive Floors Without Special Floors,4
+weekly-293,/contest/weekly-contest-293/problems/largest-combination-with-bitwise-and-greater-than-zero,2,Largest Combination With Bitwise AND Greater Than Zero,5
+weekly-293,/contest/weekly-contest-293/problems/count-integers-in-intervals,3,Count Integers in Intervals,7
+weekly-294,/contest/weekly-contest-294/problems/percentage-of-letter-in-string,0,Percentage of Letter in String,3
+weekly-294,/contest/weekly-contest-294/problems/maximum-bags-with-full-capacity-of-rocks,1,Maximum Bags With Full Capacity of Rocks,4
+weekly-294,/contest/weekly-contest-294/problems/minimum-lines-to-represent-a-line-chart,2,Minimum Lines to Represent a Line Chart,5
+weekly-294,/contest/weekly-contest-294/problems/sum-of-total-strength-of-wizards,3,Sum of Total Strength of Wizards,6
+weekly-295,/contest/weekly-contest-295/problems/rearrange-characters-to-make-target-string,0,Rearrange Characters to Make Target String,3
+weekly-295,/contest/weekly-contest-295/problems/apply-discount-to-prices,1,Apply Discount to Prices,4
+weekly-295,/contest/weekly-contest-295/problems/steps-to-make-array-non-decreasing,2,Steps to Make Array Non-decreasing,5
+weekly-295,/contest/weekly-contest-295/problems/minimum-obstacle-removal-to-reach-corner,3,Minimum Obstacle Removal to Reach Corner,6
+weekly-296,/contest/weekly-contest-296/problems/min-max-game,0,Min Max Game,3
+weekly-296,/contest/weekly-contest-296/problems/partition-array-such-that-maximum-difference-is-k,1,Partition Array Such That Maximum Difference Is K,4
+weekly-296,/contest/weekly-contest-296/problems/replace-elements-in-an-array,2,Replace Elements in an Array,5
+weekly-296,/contest/weekly-contest-296/problems/design-a-text-editor,3,Design a Text Editor,6
+weekly-297,/contest/weekly-contest-297/problems/calculate-amount-paid-in-taxes,0,Calculate Amount Paid in Taxes,3
+weekly-297,/contest/weekly-contest-297/problems/minimum-path-cost-in-a-grid,1,Minimum Path Cost in a Grid,5
+weekly-297,/contest/weekly-contest-297/problems/fair-distribution-of-cookies,2,Fair Distribution of Cookies,5
+weekly-297,/contest/weekly-contest-297/problems/naming-a-company,3,Naming a Company,6
